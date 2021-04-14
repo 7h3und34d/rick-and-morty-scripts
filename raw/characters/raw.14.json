@@ -1,0 +1,451 @@
+[
+    {
+        "created": "2017-12-31T13:38:53.640Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "Male",
+        "id": 261,
+        "image": "https://rickandmortyapi.com/api/character/avatar/261.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Photography Cyborg",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Robot",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/261"
+    },
+    {
+        "created": "2017-12-31T13:40:32.312Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "unknown",
+        "id": 262,
+        "image": "https://rickandmortyapi.com/api/character/avatar/262.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Photography Raptor",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/262"
+    },
+    {
+        "created": "2017-12-31T13:43:30.513Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 263,
+        "image": "https://rickandmortyapi.com/api/character/avatar/263.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Pibbles Bodyguard",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Hairy alien",
+        "url": "https://rickandmortyapi.com/api/character/263"
+    },
+    {
+        "created": "2017-12-31T13:44:43.176Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 264,
+        "image": "https://rickandmortyapi.com/api/character/avatar/264.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Pichael Thompson",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Conjoined twin",
+        "url": "https://rickandmortyapi.com/api/character/264"
+    },
+    {
+        "created": "2017-12-31T13:47:10.617Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24"
+        ],
+        "gender": "Male",
+        "id": 265,
+        "image": "https://rickandmortyapi.com/api/character/avatar/265.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Pickle Rick",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Pickle",
+        "url": "https://rickandmortyapi.com/api/character/265"
+    },
+    {
+        "created": "2017-12-31T13:48:58.850Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8",
+            "https://rickandmortyapi.com/api/episode/17"
+        ],
+        "gender": "Genderless",
+        "id": 266,
+        "image": "https://rickandmortyapi.com/api/character/avatar/266.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Piece of Toast",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Bread",
+        "url": "https://rickandmortyapi.com/api/character/266"
+    },
+    {
+        "created": "2017-12-31T13:50:57.337Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 267,
+        "image": "https://rickandmortyapi.com/api/character/avatar/267.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Plumber Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/267"
+    },
+    {
+        "created": "2017-12-31T13:53:25.411Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 268,
+        "image": "https://rickandmortyapi.com/api/character/avatar/268.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Poncho",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/268"
+    },
+    {
+        "created": "2017-12-31T14:01:44.995Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/31"
+        ],
+        "gender": "Female",
+        "id": 269,
+        "image": "https://rickandmortyapi.com/api/character/avatar/269.jpeg",
+        "location": {
+            "name": "Mega Gargantuan Kingdom",
+            "url": "https://rickandmortyapi.com/api/location/56"
+        },
+        "name": "Presidentress of The Mega Gargantuans",
+        "origin": {
+            "name": "Mega Gargantuan Kingdom",
+            "url": "https://rickandmortyapi.com/api/location/56"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Mega Gargantuan",
+        "url": "https://rickandmortyapi.com/api/character/269"
+    },
+    {
+        "created": "2017-12-31T14:05:24.406Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/4"
+        ],
+        "gender": "Male",
+        "id": 270,
+        "image": "https://rickandmortyapi.com/api/character/avatar/270.jpeg",
+        "location": {
+            "name": "Zigerion's Base",
+            "url": "https://rickandmortyapi.com/api/location/46"
+        },
+        "name": "Prince Nebulon",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Zigerion",
+        "url": "https://rickandmortyapi.com/api/character/270"
+    },
+    {
+        "created": "2017-12-31T14:08:43.602Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/5",
+            "https://rickandmortyapi.com/api/episode/6"
+        ],
+        "gender": "Male",
+        "id": 271,
+        "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Principal Vagina",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Cronenberg",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/271"
+    },
+    {
+        "created": "2017-12-31T14:09:09.071Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9",
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/18",
+            "https://rickandmortyapi.com/api/episode/24",
+            "https://rickandmortyapi.com/api/episode/27",
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Male",
+        "id": 272,
+        "image": "https://rickandmortyapi.com/api/character/avatar/272.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Principal Vagina",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/272"
+    },
+    {
+        "created": "2017-12-31T14:13:54.909Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/20"
+        ],
+        "gender": "Male",
+        "id": 273,
+        "image": "https://rickandmortyapi.com/api/character/avatar/273.jpeg",
+        "location": {
+            "name": "Purge Planet",
+            "url": "https://rickandmortyapi.com/api/location/9"
+        },
+        "name": "Purge Planet Ruler",
+        "origin": {
+            "name": "Purge Planet",
+            "url": "https://rickandmortyapi.com/api/location/9"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Cat-Person",
+        "url": "https://rickandmortyapi.com/api/character/273"
+    },
+    {
+        "created": "2017-12-31T14:15:28.051Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 274,
+        "image": "https://rickandmortyapi.com/api/character/avatar/274.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Quantum Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/274"
+    },
+    {
+        "created": "2017-12-31T14:16:45.776Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 275,
+        "image": "https://rickandmortyapi.com/api/character/avatar/275.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Randy Dicknose",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/275"
+    },
+    {
+        "created": "2017-12-31T14:17:21.782Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24"
+        ],
+        "gender": "unknown",
+        "id": 276,
+        "image": "https://rickandmortyapi.com/api/character/avatar/276.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Rat Boss",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Rat",
+        "url": "https://rickandmortyapi.com/api/character/276"
+    },
+    {
+        "created": "2017-12-31T14:18:30.570Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 277,
+        "image": "https://rickandmortyapi.com/api/character/avatar/277.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Real Fake Doors Salesman",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/277"
+    },
+    {
+        "created": "2017-12-31T14:19:36.487Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 278,
+        "image": "https://rickandmortyapi.com/api/character/avatar/278.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Regional Manager Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/278"
+    },
+    {
+        "created": "2017-12-31T14:20:31.936Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 279,
+        "image": "https://rickandmortyapi.com/api/character/avatar/279.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Regular Legs",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/279"
+    },
+    {
+        "created": "2017-12-31T14:22:46.285Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Male",
+        "id": 280,
+        "image": "https://rickandmortyapi.com/api/character/avatar/280.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Reverse Giraffe",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/280"
+    }
+]

@@ -1,0 +1,445 @@
+[
+    {
+        "created": "2018-04-15T17:43:56.832Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/7"
+        ],
+        "gender": "Male",
+        "id": 401,
+        "image": "https://rickandmortyapi.com/api/character/avatar/401.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Morty Jr's interviewer",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/401"
+    },
+    {
+        "created": "2018-04-15T17:45:38.589Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 402,
+        "image": "https://rickandmortyapi.com/api/character/avatar/402.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Guy from The Bachelor",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/402"
+    },
+    {
+        "created": "2018-04-15T17:48:50.629Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 403,
+        "image": "https://rickandmortyapi.com/api/character/avatar/403.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Corn detective",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Corn-person",
+        "url": "https://rickandmortyapi.com/api/character/403"
+    },
+    {
+        "created": "2018-04-15T18:01:09.637Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 404,
+        "image": "https://rickandmortyapi.com/api/character/avatar/404.jpeg",
+        "location": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "name": "Michael Jackson",
+        "origin": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Phone-Person",
+        "url": "https://rickandmortyapi.com/api/character/404"
+    },
+    {
+        "created": "2018-04-15T20:31:46.065Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2",
+            "https://rickandmortyapi.com/api/episode/8",
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/11"
+        ],
+        "gender": "Male",
+        "id": 405,
+        "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Trunkphobic suspenders guy",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/405"
+    },
+    {
+        "created": "2018-04-15T20:45:04.863Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "unknown",
+        "id": 406,
+        "image": "https://rickandmortyapi.com/api/character/avatar/406.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Spiderweb teddy bear",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Teddy Bear",
+        "url": "https://rickandmortyapi.com/api/character/406"
+    },
+    {
+        "created": "2018-04-15T20:50:10.475Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 407,
+        "image": "https://rickandmortyapi.com/api/character/avatar/407.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Regular Tyrion Lannister",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/407"
+    },
+    {
+        "created": "2018-04-15T20:51:47.778Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 408,
+        "image": "https://rickandmortyapi.com/api/character/avatar/408.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Quick Mystery Presenter",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/408"
+    },
+    {
+        "created": "2018-04-15T21:04:09.405Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 409,
+        "image": "https://rickandmortyapi.com/api/character/avatar/409.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Mr. Sneezy",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Little Human",
+        "url": "https://rickandmortyapi.com/api/character/409"
+    },
+    {
+        "created": "2018-04-15T21:06:18.686Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 410,
+        "image": "https://rickandmortyapi.com/api/character/avatar/410.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Two Brothers",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/410"
+    },
+    {
+        "created": "2018-04-15T21:10:27.986Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 411,
+        "image": "https://rickandmortyapi.com/api/character/avatar/411.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Alien Mexican Armada",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Alien",
+        "status": "unknown",
+        "type": "Mexican",
+        "url": "https://rickandmortyapi.com/api/character/411"
+    },
+    {
+        "created": "2018-04-15T21:14:09.223Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "unknown",
+        "id": 412,
+        "image": "https://rickandmortyapi.com/api/character/avatar/412.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Giant Cat Monster",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Animal",
+        "status": "unknown",
+        "type": "Giant Cat Monster",
+        "url": "https://rickandmortyapi.com/api/character/412"
+    },
+    {
+        "created": "2018-04-15T21:21:32.623Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Female",
+        "id": 413,
+        "image": "https://rickandmortyapi.com/api/character/avatar/413.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Old Women",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "Old Amazons",
+        "url": "https://rickandmortyapi.com/api/character/413"
+    },
+    {
+        "created": "2018-04-15T21:33:59.719Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 414,
+        "image": "https://rickandmortyapi.com/api/character/avatar/414.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Trunkphobic guy",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/414"
+    },
+    {
+        "created": "2018-04-15T21:34:21.911Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 415,
+        "image": "https://rickandmortyapi.com/api/character/avatar/415.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Pro trunk people marriage guy",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/415"
+    },
+    {
+        "created": "2018-04-15T21:39:22.608Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 416,
+        "image": "https://rickandmortyapi.com/api/character/avatar/416.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Muscular Mannie",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Mannie",
+        "url": "https://rickandmortyapi.com/api/character/416"
+    },
+    {
+        "created": "2018-04-15T21:40:39.871Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 417,
+        "image": "https://rickandmortyapi.com/api/character/avatar/417.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Baby Legs Chief",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/417"
+    },
+    {
+        "created": "2018-04-15T21:43:43.867Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 418,
+        "image": "https://rickandmortyapi.com/api/character/avatar/418.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Mrs. Sullivan's Boyfriend",
+        "origin": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Necrophiliac",
+        "url": "https://rickandmortyapi.com/api/character/418"
+    },
+    {
+        "created": "2018-04-15T21:48:45.783Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Female",
+        "id": 419,
+        "image": "https://rickandmortyapi.com/api/character/avatar/419.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "Plutonian Hostess",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/419"
+    },
+    {
+        "created": "2018-04-15T21:49:04.730Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Male",
+        "id": 420,
+        "image": "https://rickandmortyapi.com/api/character/avatar/420.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "Plutonian Host",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/420"
+    }
+]

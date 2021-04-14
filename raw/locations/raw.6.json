@@ -1,0 +1,114 @@
+[
+    {
+        "created": "2020-08-07T11:28:46.897Z",
+        "dimension": "Replacement Dimension",
+        "id": 101,
+        "name": "Glorzo Asteroid",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/640",
+            "https://rickandmortyapi.com/api/character/641",
+            "https://rickandmortyapi.com/api/character/642",
+            "https://rickandmortyapi.com/api/character/643",
+            "https://rickandmortyapi.com/api/character/644",
+            "https://rickandmortyapi.com/api/character/645",
+            "https://rickandmortyapi.com/api/character/646",
+            "https://rickandmortyapi.com/api/character/647"
+        ],
+        "type": "Asteroid",
+        "url": "https://rickandmortyapi.com/api/location/101"
+    },
+    {
+        "created": "2020-08-13T10:08:12.986Z",
+        "dimension": "Replacement Dimension",
+        "id": 102,
+        "name": "Alien Acid Plant",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/648",
+            "https://rickandmortyapi.com/api/character/649",
+            "https://rickandmortyapi.com/api/character/650",
+            "https://rickandmortyapi.com/api/character/651"
+        ],
+        "type": "Acid Plant",
+        "url": "https://rickandmortyapi.com/api/location/102"
+    },
+    {
+        "created": "2020-08-13T10:16:18.946Z",
+        "dimension": "Merged Dimension",
+        "id": 103,
+        "name": "Merged Universe",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/652",
+            "https://rickandmortyapi.com/api/character/656",
+            "https://rickandmortyapi.com/api/character/657",
+            "https://rickandmortyapi.com/api/character/658",
+            "https://rickandmortyapi.com/api/character/661",
+            "https://rickandmortyapi.com/api/character/655"
+        ],
+        "type": "Dimension",
+        "url": "https://rickandmortyapi.com/api/location/103"
+    },
+    {
+        "created": "2020-08-13T11:15:54.414Z",
+        "dimension": "Unknown dimension",
+        "id": 104,
+        "name": "Near-Duplicate Reality",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/653",
+            "https://rickandmortyapi.com/api/character/654",
+            "https://rickandmortyapi.com/api/character/659",
+            "https://rickandmortyapi.com/api/character/660"
+        ],
+        "type": "Reality",
+        "url": "https://rickandmortyapi.com/api/location/104"
+    },
+    {
+        "created": "2020-08-13T11:35:53.644Z",
+        "dimension": "Replacement Dimension",
+        "id": 105,
+        "name": "NX-5 Planet Remover",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/344",
+            "https://rickandmortyapi.com/api/character/670",
+            "https://rickandmortyapi.com/api/character/671"
+        ],
+        "type": "Death Star",
+        "url": "https://rickandmortyapi.com/api/location/105"
+    },
+    {
+        "created": "2020-08-13T12:00:29.825Z",
+        "dimension": "Replacement Dimension",
+        "id": 106,
+        "name": "Gaia",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/662",
+            "https://rickandmortyapi.com/api/character/663",
+            "https://rickandmortyapi.com/api/character/664",
+            "https://rickandmortyapi.com/api/character/665",
+            "https://rickandmortyapi.com/api/character/666"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/106"
+    },
+    {
+        "created": "2020-08-13T13:05:33.161Z",
+        "dimension": "Replacement Dimension",
+        "id": 107,
+        "name": "Defiance's Ship",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/668"
+        ],
+        "type": "Spacecraft",
+        "url": "https://rickandmortyapi.com/api/location/107"
+    },
+    {
+        "created": "2020-08-13T13:07:01.192Z",
+        "dimension": "Replacement Dimension",
+        "id": 108,
+        "name": "Defiance's Base",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/669"
+        ],
+        "type": "Base",
+        "url": "https://rickandmortyapi.com/api/location/108"
+    }
+]

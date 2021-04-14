@@ -1,0 +1,244 @@
+[
+    {
+        "created": "2020-08-13T11:27:29.357Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/39"
+        ],
+        "gender": "Female",
+        "id": 661,
+        "image": "https://rickandmortyapi.com/api/character/avatar/661.jpeg",
+        "location": {
+            "name": "Merged Universe",
+            "url": "https://rickandmortyapi.com/api/location/103"
+        },
+        "name": "Morty\u2019s Girlfriend",
+        "origin": {
+            "name": "Near-Duplicate Reality",
+            "url": "https://rickandmortyapi.com/api/location/104"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/661"
+    },
+    {
+        "created": "2020-08-13T11:43:23.485Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/40"
+        ],
+        "gender": "Female",
+        "id": 662,
+        "image": "https://rickandmortyapi.com/api/character/avatar/662.jpeg",
+        "location": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "name": "Gaia",
+        "origin": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "species": "Planet",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/662"
+    },
+    {
+        "created": "2020-08-13T12:17:15.344Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/40"
+        ],
+        "gender": "Male",
+        "id": 663,
+        "image": "https://rickandmortyapi.com/api/character/avatar/663.jpeg",
+        "location": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "name": "Reggie",
+        "origin": {
+            "name": "Mount Olympus",
+            "url": "https://rickandmortyapi.com/api/location/90"
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Zeus",
+        "url": "https://rickandmortyapi.com/api/character/663"
+    },
+    {
+        "created": "2020-08-13T12:36:16.345Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/40"
+        ],
+        "gender": "Genderless",
+        "id": 664,
+        "image": "https://rickandmortyapi.com/api/character/avatar/664.jpeg",
+        "location": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "name": "Ticktock",
+        "origin": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "species": "Humanoid",
+        "status": "unknown",
+        "type": "Clay-Person",
+        "url": "https://rickandmortyapi.com/api/character/664"
+    },
+    {
+        "created": "2020-08-13T12:37:08.881Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/40"
+        ],
+        "gender": "Genderless",
+        "id": 665,
+        "image": "https://rickandmortyapi.com/api/character/avatar/665.jpeg",
+        "location": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "name": "Florflock",
+        "origin": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Clay-Person",
+        "url": "https://rickandmortyapi.com/api/character/665"
+    },
+    {
+        "created": "2020-08-13T12:37:51.742Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/40"
+        ],
+        "gender": "Genderless",
+        "id": 666,
+        "image": "https://rickandmortyapi.com/api/character/avatar/666.jpeg",
+        "location": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "name": "Squeeb",
+        "origin": {
+            "name": "Gaia",
+            "url": "https://rickandmortyapi.com/api/location/106"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Clay-Person",
+        "url": "https://rickandmortyapi.com/api/character/666"
+    },
+    {
+        "created": "2020-08-13T12:48:55.885Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Female",
+        "id": 667,
+        "image": "https://rickandmortyapi.com/api/character/avatar/667.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Defiance Beth",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/667"
+    },
+    {
+        "created": "2020-08-13T12:52:36.873Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Female",
+        "id": 668,
+        "image": "https://rickandmortyapi.com/api/character/avatar/668.jpeg",
+        "location": {
+            "name": "Defiance's Ship",
+            "url": "https://rickandmortyapi.com/api/location/107"
+        },
+        "name": "Defiance Squanchette",
+        "origin": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Cat-Person",
+        "url": "https://rickandmortyapi.com/api/character/668"
+    },
+    {
+        "created": "2020-08-13T12:55:37.437Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Male",
+        "id": 669,
+        "image": "https://rickandmortyapi.com/api/character/avatar/669.jpeg",
+        "location": {
+            "name": "Defiance's Base",
+            "url": "https://rickandmortyapi.com/api/location/108"
+        },
+        "name": "Defiance Doctor",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/669"
+    },
+    {
+        "created": "2020-08-13T12:56:31.130Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Male",
+        "id": 670,
+        "image": "https://rickandmortyapi.com/api/character/avatar/670.jpeg",
+        "location": {
+            "name": "NX-5 Planet Remover",
+            "url": "https://rickandmortyapi.com/api/location/105"
+        },
+        "name": "New Improved Galactic Federation Guard",
+        "origin": {
+            "name": "Gromflom Prime",
+            "url": "https://rickandmortyapi.com/api/location/19"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gromflomite",
+        "url": "https://rickandmortyapi.com/api/character/670"
+    },
+    {
+        "created": "2020-08-13T12:57:08.113Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Male",
+        "id": 671,
+        "image": "https://rickandmortyapi.com/api/character/avatar/671.jpeg",
+        "location": {
+            "name": "NX-5 Planet Remover",
+            "url": "https://rickandmortyapi.com/api/location/105"
+        },
+        "name": "New Improved Galactic Federation Guard",
+        "origin": {
+            "name": "Gromflom Prime",
+            "url": "https://rickandmortyapi.com/api/location/19"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gromflomite",
+        "url": "https://rickandmortyapi.com/api/character/671"
+    }
+]

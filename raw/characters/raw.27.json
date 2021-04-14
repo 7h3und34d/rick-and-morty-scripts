@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-05-02T12:41:48.912Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Female",
+        "id": 521,
+        "image": "https://rickandmortyapi.com/api/character/avatar/521.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Wasp Beth",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/521"
+    },
+    {
+        "created": "2020-05-02T12:43:21.266Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "unknown",
+        "id": 522,
+        "image": "https://rickandmortyapi.com/api/character/avatar/522.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Caterpillar Mr. Goldenfold\u2019s Larvae",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Caterpillar",
+        "url": "https://rickandmortyapi.com/api/character/522"
+    },
+    {
+        "created": "2020-05-02T12:50:15.005Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "unknown",
+        "id": 523,
+        "image": "https://rickandmortyapi.com/api/character/avatar/523.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Boglin",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "unknown",
+        "status": "unknown",
+        "type": "Toy",
+        "url": "https://rickandmortyapi.com/api/character/523"
+    },
+    {
+        "created": "2020-05-02T12:52:58.134Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 524,
+        "image": "https://rickandmortyapi.com/api/character/avatar/524.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Kirkland Brand Mr. Meeseeks",
+        "origin": {
+            "name": "Mr. Meeseeks Box",
+            "url": "https://rickandmortyapi.com/api/location/53"
+        },
+        "species": "Humanoid",
+        "status": "unknown",
+        "type": "Meeseeks",
+        "url": "https://rickandmortyapi.com/api/character/524"
+    },
+    {
+        "created": "2020-05-02T13:13:31.593Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 525,
+        "image": "https://rickandmortyapi.com/api/character/avatar/525.jpeg",
+        "location": {
+            "name": "Monogatron Mothership",
+            "url": "https://rickandmortyapi.com/api/location/83"
+        },
+        "name": "Glootie",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Monogatron",
+        "url": "https://rickandmortyapi.com/api/character/525"
+    },
+    {
+        "created": "2020-05-02T13:14:28.386Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 526,
+        "image": "https://rickandmortyapi.com/api/character/avatar/526.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Danny Publitz",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/526"
+    },
+    {
+        "created": "2020-05-02T13:26:53.358Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 527,
+        "image": "https://rickandmortyapi.com/api/character/avatar/527.jpeg",
+        "location": {
+            "name": "Monogatron Mothership",
+            "url": "https://rickandmortyapi.com/api/location/83"
+        },
+        "name": "Mothership Intern",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Monogatron",
+        "url": "https://rickandmortyapi.com/api/character/527"
+    },
+    {
+        "created": "2020-05-02T13:27:50.476Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 528,
+        "image": "https://rickandmortyapi.com/api/character/avatar/528.jpeg",
+        "location": {
+            "name": "Monogatron Mothership",
+            "url": "https://rickandmortyapi.com/api/location/83"
+        },
+        "name": "Monogatron Leader",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Monogatron",
+        "url": "https://rickandmortyapi.com/api/character/528"
+    },
+    {
+        "created": "2020-05-02T13:31:49.867Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 529,
+        "image": "https://rickandmortyapi.com/api/character/avatar/529.jpeg",
+        "location": {
+            "name": "Midland Quasar",
+            "url": "https://rickandmortyapi.com/api/location/85"
+        },
+        "name": "Lizard",
+        "origin": {
+            "name": "Midland Quasar",
+            "url": "https://rickandmortyapi.com/api/location/85"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Lizard",
+        "url": "https://rickandmortyapi.com/api/character/529"
+    },
+    {
+        "created": "2020-05-02T13:32:41.259Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Genderless",
+        "id": 530,
+        "image": "https://rickandmortyapi.com/api/character/avatar/530.jpeg",
+        "location": {
+            "name": "Midland Quasar",
+            "url": "https://rickandmortyapi.com/api/location/85"
+        },
+        "name": "Deliverance",
+        "origin": {
+            "name": "Midland Quasar",
+            "url": "https://rickandmortyapi.com/api/location/85"
+        },
+        "species": "Robot",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/530"
+    },
+    {
+        "created": "2020-05-02T13:35:07.498Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 531,
+        "image": "https://rickandmortyapi.com/api/character/avatar/531.jpeg",
+        "location": {
+            "name": "Mount Space Everest",
+            "url": "https://rickandmortyapi.com/api/location/86"
+        },
+        "name": "Tony",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/531"
+    },
+    {
+        "created": "2020-05-02T13:45:32.092Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Female",
+        "id": 532,
+        "image": "https://rickandmortyapi.com/api/character/avatar/532.jpeg",
+        "location": {
+            "name": "Globaflyn",
+            "url": "https://rickandmortyapi.com/api/location/87"
+        },
+        "name": "Tony\u2019s Wife",
+        "origin": {
+            "name": "Globaflyn",
+            "url": "https://rickandmortyapi.com/api/location/87"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/532"
+    },
+    {
+        "created": "2020-05-02T13:46:10.906Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Female",
+        "id": 533,
+        "image": "https://rickandmortyapi.com/api/character/avatar/533.jpeg",
+        "location": {
+            "name": "Monogatron Mothership",
+            "url": "https://rickandmortyapi.com/api/location/83"
+        },
+        "name": "Monogatron Queen",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Monogatron",
+        "url": "https://rickandmortyapi.com/api/character/533"
+    },
+    {
+        "created": "2020-05-02T13:52:06.880Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 534,
+        "image": "https://rickandmortyapi.com/api/character/avatar/534.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Tony's Dad",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/534"
+    },
+    {
+        "created": "2020-05-02T13:54:21.374Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 535,
+        "image": "https://rickandmortyapi.com/api/character/avatar/535.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jeff",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/535"
+    },
+    {
+        "created": "2020-05-02T13:54:48.651Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 536,
+        "image": "https://rickandmortyapi.com/api/character/avatar/536.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Josiah",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/536"
+    },
+    {
+        "created": "2020-05-02T13:55:15.098Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Female",
+        "id": 537,
+        "image": "https://rickandmortyapi.com/api/character/avatar/537.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Maggie",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/537"
+    },
+    {
+        "created": "2020-05-02T13:55:45.767Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 538,
+        "image": "https://rickandmortyapi.com/api/character/avatar/538.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Priest Witherspoon",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/538"
+    },
+    {
+        "created": "2020-05-02T13:56:14.834Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 539,
+        "image": "https://rickandmortyapi.com/api/character/avatar/539.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Richard",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/539"
+    },
+    {
+        "created": "2020-05-02T13:56:45.926Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 540,
+        "image": "https://rickandmortyapi.com/api/character/avatar/540.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Running Bird",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/540"
+    }
+]

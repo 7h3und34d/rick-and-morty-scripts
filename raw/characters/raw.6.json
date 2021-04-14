@@ -1,0 +1,446 @@
+[
+    {
+        "created": "2017-12-01T12:03:31.433Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 101,
+        "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "E. Coli",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/101"
+    },
+    {
+        "created": "2017-12-01T12:21:21.357Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "Female",
+        "id": 102,
+        "image": "https://rickandmortyapi.com/api/character/avatar/102.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Donna Gueterman",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Robot",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/102"
+    },
+    {
+        "created": "2017-12-01T12:29:27.984Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 103,
+        "image": "https://rickandmortyapi.com/api/character/avatar/103.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Doofus Rick",
+        "origin": {
+            "name": "Earth (J19\u03b67)",
+            "url": "https://rickandmortyapi.com/api/location/31"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/103"
+    },
+    {
+        "created": "2017-12-26T12:34:36.758Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "unknown",
+        "id": 104,
+        "image": "https://rickandmortyapi.com/api/character/avatar/104.jpeg",
+        "location": {
+            "name": "Dorian 5",
+            "url": "https://rickandmortyapi.com/api/location/29"
+        },
+        "name": "Doom-Nomitron",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Shapeshifter",
+        "url": "https://rickandmortyapi.com/api/character/104"
+    },
+    {
+        "created": "2017-12-26T12:39:22.855Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 105,
+        "image": "https://rickandmortyapi.com/api/character/avatar/105.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Dr. Glip-Glop",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/105"
+    },
+    {
+        "created": "2017-12-26T12:46:48.805Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 106,
+        "image": "https://rickandmortyapi.com/api/character/avatar/106.jpeg",
+        "location": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "name": "Dr. Schmidt",
+        "origin": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/character/106"
+    },
+    {
+        "created": "2017-12-26T12:55:58.449Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24",
+            "https://rickandmortyapi.com/api/episode/41"
+        ],
+        "gender": "Female",
+        "id": 107,
+        "image": "https://rickandmortyapi.com/api/character/avatar/107.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Dr. Wong",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/107"
+    },
+    {
+        "created": "2017-12-26T13:14:12.157Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 108,
+        "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Dr. Xenon Bloom",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Amoeba-Person",
+        "url": "https://rickandmortyapi.com/api/character/108"
+    },
+    {
+        "created": "2017-12-26T13:17:40.686Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Male",
+        "id": 109,
+        "image": "https://rickandmortyapi.com/api/character/avatar/109.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Duck With Muscles",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/109"
+    },
+    {
+        "created": "2017-12-26T13:37:27.635Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/23"
+        ],
+        "gender": "Male",
+        "id": 110,
+        "image": "https://rickandmortyapi.com/api/character/avatar/110.jpeg",
+        "location": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "name": "Eli",
+        "origin": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/110"
+    },
+    {
+        "created": "2017-12-26T13:38:47.115Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/23"
+        ],
+        "gender": "Female",
+        "id": 111,
+        "image": "https://rickandmortyapi.com/api/character/avatar/111.jpeg",
+        "location": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "name": "Eli's Girlfriend",
+        "origin": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/111"
+    },
+    {
+        "created": "2017-12-26T13:40:06.005Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 112,
+        "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Eric McMan",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/112"
+    },
+    {
+        "created": "2017-12-26T13:43:29.296Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 113,
+        "image": "https://rickandmortyapi.com/api/character/avatar/113.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Eric Stoltz Mask Morty",
+        "origin": {
+            "name": "Eric Stoltz Mask Earth",
+            "url": "https://rickandmortyapi.com/api/location/33"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/113"
+    },
+    {
+        "created": "2017-12-26T16:01:13.904Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 114,
+        "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Ethan",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "Cronenberg",
+        "url": "https://rickandmortyapi.com/api/character/114"
+    },
+    {
+        "created": "2017-12-26T16:01:50.939Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 115,
+        "image": "https://rickandmortyapi.com/api/character/avatar/115.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Ethan",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/115"
+    },
+    {
+        "created": "2017-12-26T16:10:47.781Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Female",
+        "id": 116,
+        "image": "https://rickandmortyapi.com/api/character/avatar/116.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Evil Beth Clone",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/116"
+    },
+    {
+        "created": "2017-12-26T16:11:15.395Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Male",
+        "id": 117,
+        "image": "https://rickandmortyapi.com/api/character/avatar/117.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Evil Jerry Clone",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/117"
+    },
+    {
+        "created": "2017-12-26T16:13:41.103Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 118,
+        "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Evil Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/118"
+    },
+    {
+        "created": "2017-12-26T16:17:16.472Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 119,
+        "image": "https://rickandmortyapi.com/api/character/avatar/119.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Evil Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Robot",
+        "url": "https://rickandmortyapi.com/api/character/119"
+    },
+    {
+        "created": "2017-12-26T16:24:02.059Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Female",
+        "id": 120,
+        "image": "https://rickandmortyapi.com/api/character/avatar/120.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Evil Summer Clone",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/120"
+    }
+]

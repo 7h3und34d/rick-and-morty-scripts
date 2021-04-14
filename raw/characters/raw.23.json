@@ -1,0 +1,444 @@
+[
+    {
+        "created": "2018-05-01T12:09:22.636Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 441,
+        "image": "https://rickandmortyapi.com/api/character/avatar/441.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Bearded Jerry",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/441"
+    },
+    {
+        "created": "2018-05-01T12:10:35.123Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 442,
+        "image": "https://rickandmortyapi.com/api/character/avatar/442.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Shaved Head Jerry",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/442"
+    },
+    {
+        "created": "2018-05-01T12:23:37.165Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 443,
+        "image": "https://rickandmortyapi.com/api/character/avatar/443.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Tank Top Jerry",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/443"
+    },
+    {
+        "created": "2018-05-01T12:27:08.632Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 444,
+        "image": "https://rickandmortyapi.com/api/character/avatar/444.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Pink Polo Shirt Jerry",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/444"
+    },
+    {
+        "created": "2018-05-01T13:09:57.921Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Female",
+        "id": 445,
+        "image": "https://rickandmortyapi.com/api/character/avatar/445.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Jerryboree Keeper",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/445"
+    },
+    {
+        "created": "2018-05-01T13:11:26.665Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 446,
+        "image": "https://rickandmortyapi.com/api/character/avatar/446.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Jerryboree Receptionist",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/446"
+    },
+    {
+        "created": "2018-05-01T13:34:56.141Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 447,
+        "image": "https://rickandmortyapi.com/api/character/avatar/447.jpeg",
+        "location": {
+            "name": "Gear World",
+            "url": "https://rickandmortyapi.com/api/location/57"
+        },
+        "name": "Anchor Gear",
+        "origin": {
+            "name": "Gear World",
+            "url": "https://rickandmortyapi.com/api/location/57"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Gear-Person",
+        "url": "https://rickandmortyapi.com/api/character/447"
+    },
+    {
+        "created": "2018-05-01T13:38:21.237Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 448,
+        "image": "https://rickandmortyapi.com/api/character/avatar/448.jpeg",
+        "location": {
+            "name": "Gear World",
+            "url": "https://rickandmortyapi.com/api/location/57"
+        },
+        "name": "Gear Cop",
+        "origin": {
+            "name": "Gear World",
+            "url": "https://rickandmortyapi.com/api/location/57"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gear-Person",
+        "url": "https://rickandmortyapi.com/api/character/448"
+    },
+    {
+        "created": "2018-05-01T13:55:27.886Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Female",
+        "id": 449,
+        "image": "https://rickandmortyapi.com/api/character/avatar/449.jpeg",
+        "location": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "name": "Roy's Mum",
+        "origin": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/character/449"
+    },
+    {
+        "created": "2018-05-01T13:57:55.888Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 450,
+        "image": "https://rickandmortyapi.com/api/character/avatar/450.jpeg",
+        "location": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "name": "Roy's Wife",
+        "origin": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/character/450"
+    },
+    {
+        "created": "2018-05-01T13:59:18.964Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 451,
+        "image": "https://rickandmortyapi.com/api/character/avatar/451.jpeg",
+        "location": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "name": "Roy's Son",
+        "origin": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/character/451"
+    },
+    {
+        "created": "2018-05-01T14:20:10.187Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16"
+        ],
+        "gender": "Male",
+        "id": 452,
+        "image": "https://rickandmortyapi.com/api/character/avatar/452.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Simon",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/452"
+    },
+    {
+        "created": "2018-05-01T15:20:15.582Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Male",
+        "id": 453,
+        "image": "https://rickandmortyapi.com/api/character/avatar/453.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Vampire Master's Assistant",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Vampire",
+        "url": "https://rickandmortyapi.com/api/character/453"
+    },
+    {
+        "created": "2018-05-01T15:30:21.493Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/19",
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "unknown",
+        "id": 454,
+        "image": "https://rickandmortyapi.com/api/character/avatar/454.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Arbolian Mentirososian",
+        "origin": {
+            "name": "\u00c1rboles Mentirosos",
+            "url": "https://rickandmortyapi.com/api/location/75"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/454"
+    },
+    {
+        "created": "2018-05-01T15:34:19.679Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Female",
+        "id": 455,
+        "image": "https://rickandmortyapi.com/api/character/avatar/455.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "St. Gloopy Noops Nurse",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/455"
+    },
+    {
+        "created": "2018-05-01T15:42:07.919Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 456,
+        "image": "https://rickandmortyapi.com/api/character/avatar/456.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Nano Doctor",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Nano Alien",
+        "url": "https://rickandmortyapi.com/api/character/456"
+    },
+    {
+        "created": "2018-05-01T16:08:23.458Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 457,
+        "image": "https://rickandmortyapi.com/api/character/avatar/457.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Funny Songs Presenter",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/457"
+    },
+    {
+        "created": "2018-05-01T16:11:17.925Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 458,
+        "image": "https://rickandmortyapi.com/api/character/avatar/458.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Tax Attorney",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/458"
+    },
+    {
+        "created": "2018-05-01T16:53:23.462Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 459,
+        "image": "https://rickandmortyapi.com/api/character/avatar/459.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Butthole Ice Cream Guy",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/459"
+    },
+    {
+        "created": "2018-05-01T17:03:39.846Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 460,
+        "image": "https://rickandmortyapi.com/api/character/avatar/460.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Traflorkian Journalist",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Traflorkian",
+        "url": "https://rickandmortyapi.com/api/character/460"
+    }
+]

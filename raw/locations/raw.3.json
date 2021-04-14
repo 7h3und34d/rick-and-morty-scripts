@@ -1,0 +1,234 @@
+[
+    {
+        "created": "2017-12-29T15:27:54.209Z",
+        "dimension": "unknown",
+        "id": 41,
+        "name": "Hamster in Butt World",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/153"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/41"
+    },
+    {
+        "created": "2017-12-29T16:03:28.720Z",
+        "dimension": "Giant Telepathic Spiders Dimension",
+        "id": 42,
+        "name": "Earth (Giant Telepathic Spiders Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/159",
+            "https://rickandmortyapi.com/api/character/160"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/42"
+    },
+    {
+        "created": "2017-12-29T16:08:47.694Z",
+        "dimension": "Replacement Dimension",
+        "id": 43,
+        "name": "Alphabetrium",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/161",
+            "https://rickandmortyapi.com/api/character/162",
+            "https://rickandmortyapi.com/api/character/212",
+            "https://rickandmortyapi.com/api/character/213",
+            "https://rickandmortyapi.com/api/character/253"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/43"
+    },
+    {
+        "created": "2017-12-29T17:50:19.947Z",
+        "dimension": "unknown",
+        "id": 44,
+        "name": "Jerryboree",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/174",
+            "https://rickandmortyapi.com/api/character/257",
+            "https://rickandmortyapi.com/api/character/441",
+            "https://rickandmortyapi.com/api/character/442",
+            "https://rickandmortyapi.com/api/character/443",
+            "https://rickandmortyapi.com/api/character/444",
+            "https://rickandmortyapi.com/api/character/445",
+            "https://rickandmortyapi.com/api/character/446"
+        ],
+        "type": "Daycare",
+        "url": "https://rickandmortyapi.com/api/location/44"
+    },
+    {
+        "created": "2017-12-29T19:26:06.827Z",
+        "dimension": "Replacement Dimension",
+        "id": 45,
+        "name": "Krootabulon",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/45"
+    },
+    {
+        "created": "2017-12-29T19:40:07.748Z",
+        "dimension": "Dimension C-137",
+        "id": 46,
+        "name": "Zigerion's Base",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/87",
+            "https://rickandmortyapi.com/api/character/191",
+            "https://rickandmortyapi.com/api/character/270",
+            "https://rickandmortyapi.com/api/character/337"
+        ],
+        "type": "Space station",
+        "url": "https://rickandmortyapi.com/api/location/46"
+    },
+    {
+        "created": "2017-12-29T19:49:29.228Z",
+        "dimension": "Replacement Dimension",
+        "id": 47,
+        "name": "Pluto",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/192",
+            "https://rickandmortyapi.com/api/character/307",
+            "https://rickandmortyapi.com/api/character/419",
+            "https://rickandmortyapi.com/api/character/420",
+            "https://rickandmortyapi.com/api/character/421",
+            "https://rickandmortyapi.com/api/character/422"
+        ],
+        "type": "Dwarf planet (Celestial Dwarf)",
+        "url": "https://rickandmortyapi.com/api/location/47"
+    },
+    {
+        "created": "2017-12-29T19:55:54.672Z",
+        "dimension": "Fantasy Dimension",
+        "id": 48,
+        "name": "Fantasy World",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/41",
+            "https://rickandmortyapi.com/api/character/193",
+            "https://rickandmortyapi.com/api/character/238",
+            "https://rickandmortyapi.com/api/character/333"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/48"
+    },
+    {
+        "created": "2017-12-29T19:58:44.675Z",
+        "dimension": "Replacement Dimension",
+        "id": 49,
+        "name": "Zeep Xanflorp's Miniverse",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/348"
+        ],
+        "type": "Miniverse",
+        "url": "https://rickandmortyapi.com/api/location/49"
+    },
+    {
+        "created": "2017-12-30T12:36:19.730Z",
+        "dimension": "Replacement Dimension",
+        "id": 50,
+        "name": "Kyle's Teenyverse",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/197",
+            "https://rickandmortyapi.com/api/character/364"
+        ],
+        "type": "Teenyverse",
+        "url": "https://rickandmortyapi.com/api/location/50"
+    },
+    {
+        "created": "2017-12-30T12:48:19.312Z",
+        "dimension": "Unknown dimension",
+        "id": 51,
+        "name": "Larva Alien's Planet",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/51"
+    },
+    {
+        "created": "2017-12-30T16:33:49.507Z",
+        "dimension": "Dimension K-22",
+        "id": 52,
+        "name": "Earth (K-22)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/52"
+    },
+    {
+        "created": "2017-12-30T17:52:12.217Z",
+        "dimension": "unknown",
+        "id": 53,
+        "name": "Mr. Meeseeks Box",
+        "residents": [],
+        "type": "Box",
+        "url": "https://rickandmortyapi.com/api/location/53"
+    },
+    {
+        "created": "2017-12-31T12:57:37.824Z",
+        "dimension": "unknown",
+        "id": 54,
+        "name": "Vindicator's Base",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/252"
+        ],
+        "type": "Spacecraft",
+        "url": "https://rickandmortyapi.com/api/location/54"
+    },
+    {
+        "created": "2017-12-31T13:30:33.579Z",
+        "dimension": "Replacement Dimension",
+        "id": 55,
+        "name": "Pawn Shop Planet",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/258"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/55"
+    },
+    {
+        "created": "2017-12-31T14:01:44.921Z",
+        "dimension": "Replacement Dimension",
+        "id": 56,
+        "name": "Mega Gargantuan Kingdom",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/269"
+        ],
+        "type": "Microverse",
+        "url": "https://rickandmortyapi.com/api/location/56"
+    },
+    {
+        "created": "2017-12-31T19:21:17.276Z",
+        "dimension": "unknown",
+        "id": 57,
+        "name": "Gear World",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/282",
+            "https://rickandmortyapi.com/api/character/447",
+            "https://rickandmortyapi.com/api/character/448"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/57"
+    },
+    {
+        "created": "2017-12-31T19:49:55.109Z",
+        "dimension": "Dimension D-99",
+        "id": 58,
+        "name": "Earth (D-99)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/58"
+    },
+    {
+        "created": "2017-12-31T19:51:33.170Z",
+        "dimension": "Dimension D716",
+        "id": 59,
+        "name": "Earth (D716)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/59"
+    },
+    {
+        "created": "2017-12-31T19:55:25.026Z",
+        "dimension": "Dimension D716-B",
+        "id": 60,
+        "name": "Earth (D716-B)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/60"
+    }
+]

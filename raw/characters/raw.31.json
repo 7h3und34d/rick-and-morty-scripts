@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-08-06T11:41:34.260Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 601,
+        "image": "https://rickandmortyapi.com/api/character/avatar/601.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Christmas Storyteller",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/601"
+    },
+    {
+        "created": "2020-08-06T11:43:40.230Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 602,
+        "image": "https://rickandmortyapi.com/api/character/avatar/602.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Cookies Guy",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/602"
+    },
+    {
+        "created": "2020-08-06T11:46:17.792Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Genderless",
+        "id": 603,
+        "image": "https://rickandmortyapi.com/api/character/avatar/603.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Crossy",
+        "origin": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/603"
+    },
+    {
+        "created": "2020-08-06T11:48:01.937Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 604,
+        "image": "https://rickandmortyapi.com/api/character/avatar/604.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Female Scorpion",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/604"
+    },
+    {
+        "created": "2020-08-06T11:48:09.608Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 605,
+        "image": "https://rickandmortyapi.com/api/character/avatar/605.jpeg",
+        "location": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "name": "Floaty Bloody Man\u2019s Daughter",
+        "origin": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/605"
+    },
+    {
+        "created": "2020-08-06T12:34:29.455Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 606,
+        "image": "https://rickandmortyapi.com/api/character/avatar/606.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Goomby",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/606"
+    },
+    {
+        "created": "2020-08-06T12:35:20.673Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 607,
+        "image": "https://rickandmortyapi.com/api/character/avatar/607.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Hairspray Fan",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/607"
+    },
+    {
+        "created": "2020-08-06T12:36:05.897Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 608,
+        "image": "https://rickandmortyapi.com/api/character/avatar/608.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Jesus Christ",
+        "origin": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/608"
+    },
+    {
+        "created": "2020-08-06T12:43:52.810Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 609,
+        "image": "https://rickandmortyapi.com/api/character/avatar/609.jpeg",
+        "location": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "name": "Josh",
+        "origin": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/609"
+    },
+    {
+        "created": "2020-08-06T12:44:35.845Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 610,
+        "image": "https://rickandmortyapi.com/api/character/avatar/610.jpeg",
+        "location": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "name": "Josh's Sister",
+        "origin": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/610"
+    },
+    {
+        "created": "2020-08-06T12:47:45.761Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 611,
+        "image": "https://rickandmortyapi.com/api/character/avatar/611.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Leah",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/611"
+    },
+    {
+        "created": "2020-08-06T12:48:25.333Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 612,
+        "image": "https://rickandmortyapi.com/api/character/avatar/612.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Marcus",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/612"
+    },
+    {
+        "created": "2020-08-06T12:49:32.604Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 613,
+        "image": "https://rickandmortyapi.com/api/character/avatar/613.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Mike Johnson",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/613"
+    },
+    {
+        "created": "2020-08-06T12:51:12.254Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Genderless",
+        "id": 614,
+        "image": "https://rickandmortyapi.com/api/character/avatar/614.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Mr. Celery & Friends",
+        "origin": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/614"
+    },
+    {
+        "created": "2020-08-06T12:52:20.880Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 615,
+        "image": "https://rickandmortyapi.com/api/character/avatar/615.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Musical Fan",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/615"
+    },
+    {
+        "created": "2020-08-06T12:52:54.712Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 616,
+        "image": "https://rickandmortyapi.com/api/character/avatar/616.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Phantom of the Opera Fan",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/616"
+    },
+    {
+        "created": "2020-08-06T12:54:15.895Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 617,
+        "image": "https://rickandmortyapi.com/api/character/avatar/617.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Phoenixperson",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/617"
+    },
+    {
+        "created": "2020-08-06T12:55:53.895Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 618,
+        "image": "https://rickandmortyapi.com/api/character/avatar/618.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Private Smith",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/618"
+    },
+    {
+        "created": "2020-08-06T12:56:56.606Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 619,
+        "image": "https://rickandmortyapi.com/api/character/avatar/619.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Professor Sanchez",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/619"
+    },
+    {
+        "created": "2020-08-06T15:58:14.525Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 620,
+        "image": "https://rickandmortyapi.com/api/character/avatar/620.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Ramamama Lord",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/620"
+    }
+]

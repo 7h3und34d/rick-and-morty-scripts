@@ -1,0 +1,449 @@
+[
+    {
+        "created": "2018-01-05T14:02:20.902Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/14"
+        ],
+        "gender": "Male",
+        "id": 301,
+        "image": "https://rickandmortyapi.com/api/character/avatar/301.jpeg",
+        "location": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "name": "Ron Benson",
+        "origin": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Ring-nippled alien",
+        "url": "https://rickandmortyapi.com/api/character/301"
+    },
+    {
+        "created": "2018-01-05T14:03:21.824Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 302,
+        "image": "https://rickandmortyapi.com/api/character/avatar/302.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Ruben",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/302"
+    },
+    {
+        "created": "2018-01-05T14:09:03.150Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Female",
+        "id": 303,
+        "image": "https://rickandmortyapi.com/api/character/avatar/303.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Samantha",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/303"
+    },
+    {
+        "created": "2018-01-05T14:11:17.550Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 304,
+        "image": "https://rickandmortyapi.com/api/character/avatar/304.jpeg",
+        "location": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "name": "Scary Brandon",
+        "origin": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Monster",
+        "url": "https://rickandmortyapi.com/api/character/304"
+    },
+    {
+        "created": "2018-01-05T14:11:53.287Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 305,
+        "image": "https://rickandmortyapi.com/api/character/avatar/305.jpeg",
+        "location": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "name": "Scary Glenn",
+        "origin": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Monster",
+        "url": "https://rickandmortyapi.com/api/character/305"
+    },
+    {
+        "created": "2018-01-05T14:13:01.564Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 306,
+        "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg",
+        "location": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "name": "Scary Terry",
+        "origin": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Monster",
+        "url": "https://rickandmortyapi.com/api/character/306"
+    },
+    {
+        "created": "2018-01-05T14:20:41.693Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Male",
+        "id": 307,
+        "image": "https://rickandmortyapi.com/api/character/avatar/307.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "Scroopy Noopers",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/307"
+    },
+    {
+        "created": "2018-01-05T14:22:47.706Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "Male",
+        "id": 308,
+        "image": "https://rickandmortyapi.com/api/character/avatar/308.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Scropon",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "unknown",
+        "type": "Lobster-Alien",
+        "url": "https://rickandmortyapi.com/api/character/308"
+    },
+    {
+        "created": "2018-01-05T14:26:50.679Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13",
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/21",
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Male",
+        "id": 309,
+        "image": "https://rickandmortyapi.com/api/character/avatar/309.jpeg",
+        "location": {
+            "name": "Signus 5 Expanse",
+            "url": "https://rickandmortyapi.com/api/location/22"
+        },
+        "name": "Scrotian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Scrotian",
+        "url": "https://rickandmortyapi.com/api/character/309"
+    },
+    {
+        "created": "2018-01-05T14:29:21.347Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Male",
+        "id": 310,
+        "image": "https://rickandmortyapi.com/api/character/avatar/310.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Self-Congratulatory Jerry",
+        "origin": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "species": "Mythological Creature",
+        "status": "unknown",
+        "type": "Mytholog",
+        "url": "https://rickandmortyapi.com/api/character/310"
+    },
+    {
+        "created": "2018-01-05T14:44:01.276Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13",
+            "https://rickandmortyapi.com/api/episode/21",
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Male",
+        "id": 311,
+        "image": "https://rickandmortyapi.com/api/character/avatar/311.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Shimshamian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Shimshamian",
+        "url": "https://rickandmortyapi.com/api/character/311"
+    },
+    {
+        "created": "2018-01-05T14:45:39.235Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "unknown",
+        "id": 312,
+        "image": "https://rickandmortyapi.com/api/character/avatar/312.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shlaammi",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/312"
+    },
+    {
+        "created": "2018-01-05T14:52:31.489Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/12",
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 313,
+        "image": "https://rickandmortyapi.com/api/character/avatar/313.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Shleemypants",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Omniscient being",
+        "url": "https://rickandmortyapi.com/api/character/313"
+    },
+    {
+        "created": "2018-01-05T14:53:23.739Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Female",
+        "id": 314,
+        "image": "https://rickandmortyapi.com/api/character/avatar/314.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shmlamantha Shmlicelli",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/314"
+    },
+    {
+        "created": "2018-01-05T14:54:37.641Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Female",
+        "id": 315,
+        "image": "https://rickandmortyapi.com/api/character/avatar/315.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shmlangela Shmlobinson-Shmlower",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/315"
+    },
+    {
+        "created": "2018-01-05T14:55:42.034Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Female",
+        "id": 316,
+        "image": "https://rickandmortyapi.com/api/character/avatar/316.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shmlona Shmlobinson",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/316"
+    },
+    {
+        "created": "2018-01-05T14:56:15.428Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 317,
+        "image": "https://rickandmortyapi.com/api/character/avatar/317.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shmlonathan Shmlower",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/317"
+    },
+    {
+        "created": "2018-01-05T14:56:45.502Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 318,
+        "image": "https://rickandmortyapi.com/api/character/avatar/318.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Shmlony Shmlicelli",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/318"
+    },
+    {
+        "created": "2018-01-05T14:59:34.798Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 319,
+        "image": "https://rickandmortyapi.com/api/character/avatar/319.jpeg",
+        "location": {
+            "name": "Resort Planet",
+            "url": "https://rickandmortyapi.com/api/location/37"
+        },
+        "name": "Shmooglite Runner",
+        "origin": {
+            "name": "Resort Planet",
+            "url": "https://rickandmortyapi.com/api/location/37"
+        },
+        "species": "Alien",
+        "status": "unknown",
+        "type": "Animal",
+        "url": "https://rickandmortyapi.com/api/character/319"
+    },
+    {
+        "created": "2018-01-05T15:02:28.103Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 320,
+        "image": "https://rickandmortyapi.com/api/character/avatar/320.jpeg",
+        "location": {
+            "name": "Immortality Field Resort",
+            "url": "https://rickandmortyapi.com/api/location/7"
+        },
+        "name": "Shnoopy Bloopers",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/320"
+    }
+]

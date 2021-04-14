@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-05-07T11:19:57.540Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 561,
+        "image": "https://rickandmortyapi.com/api/character/avatar/561.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Netflix Executive",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/561"
+    },
+    {
+        "created": "2020-05-07T11:32:16.357Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 562,
+        "image": "https://rickandmortyapi.com/api/character/avatar/562.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Balthromaw",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/562"
+    },
+    {
+        "created": "2020-05-07T11:32:52.469Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 563,
+        "image": "https://rickandmortyapi.com/api/character/avatar/563.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "The Wizard",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/563"
+    },
+    {
+        "created": "2020-05-07T11:33:37.456Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 564,
+        "image": "https://rickandmortyapi.com/api/character/avatar/564.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Talking Cat",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/564"
+    },
+    {
+        "created": "2020-05-07T11:34:43.083Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 565,
+        "image": "https://rickandmortyapi.com/api/character/avatar/565.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "Debrah",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/565"
+    },
+    {
+        "created": "2020-05-07T11:35:29.625Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 566,
+        "image": "https://rickandmortyapi.com/api/character/avatar/566.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "Debrah\u2019s Partner",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/566"
+    },
+    {
+        "created": "2020-05-07T11:36:12.044Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 567,
+        "image": "https://rickandmortyapi.com/api/character/avatar/567.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "Michael",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/567"
+    },
+    {
+        "created": "2020-05-07T11:37:05.857Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 568,
+        "image": "https://rickandmortyapi.com/api/character/avatar/568.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "Slut Dragon",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/568"
+    },
+    {
+        "created": "2020-05-07T11:37:49.533Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 569,
+        "image": "https://rickandmortyapi.com/api/character/avatar/569.jpeg",
+        "location": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "name": "Shadow Jacker",
+        "origin": {
+            "name": "Draygon",
+            "url": "https://rickandmortyapi.com/api/location/94"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Dragon",
+        "url": "https://rickandmortyapi.com/api/character/569"
+    },
+    {
+        "created": "2020-05-07T12:01:38.426Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/35"
+        ],
+        "gender": "Male",
+        "id": 570,
+        "image": "https://rickandmortyapi.com/api/character/avatar/570.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Chachi",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/570"
+    },
+    {
+        "created": "2020-05-07T12:10:34.574Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Female",
+        "id": 571,
+        "image": "https://rickandmortyapi.com/api/character/avatar/571.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Slippy",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/571"
+    },
+    {
+        "created": "2020-05-07T12:11:58.105Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Genderless",
+        "id": 572,
+        "image": "https://rickandmortyapi.com/api/character/avatar/572.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Robot Snake",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Robot",
+        "status": "unknown",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/572"
+    },
+    {
+        "created": "2020-05-07T12:12:53.568Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 573,
+        "image": "https://rickandmortyapi.com/api/character/avatar/573.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake Hitler",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/573"
+    },
+    {
+        "created": "2020-05-07T12:13:44.361Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 574,
+        "image": "https://rickandmortyapi.com/api/character/avatar/574.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake Lincoln",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/574"
+    },
+    {
+        "created": "2020-05-07T12:15:50.438Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Genderless",
+        "id": 575,
+        "image": "https://rickandmortyapi.com/api/character/avatar/575.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Snake Resistance Robot",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Robot",
+        "status": "Dead",
+        "type": "Human-Snake hybrid",
+        "url": "https://rickandmortyapi.com/api/character/575"
+    },
+    {
+        "created": "2020-05-07T12:16:53.781Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 576,
+        "image": "https://rickandmortyapi.com/api/character/avatar/576.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake Linguist",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "unknown",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/576"
+    },
+    {
+        "created": "2020-05-07T12:19:06.599Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 577,
+        "image": "https://rickandmortyapi.com/api/character/avatar/577.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake Terminator",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Robot",
+        "status": "unknown",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/577"
+    },
+    {
+        "created": "2020-05-07T12:19:11.205Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 578,
+        "image": "https://rickandmortyapi.com/api/character/avatar/578.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake Soldier",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/578"
+    },
+    {
+        "created": "2020-05-07T12:22:08.800Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 579,
+        "image": "https://rickandmortyapi.com/api/character/avatar/579.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Snake with Legs",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/579"
+    },
+    {
+        "created": "2020-05-07T12:23:20.171Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/36"
+        ],
+        "gender": "Male",
+        "id": 580,
+        "image": "https://rickandmortyapi.com/api/character/avatar/580.jpeg",
+        "location": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "name": "Secret Service Snake",
+        "origin": {
+            "name": "Snake Planet",
+            "url": "https://rickandmortyapi.com/api/location/78"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Snake",
+        "url": "https://rickandmortyapi.com/api/character/580"
+    }
+]

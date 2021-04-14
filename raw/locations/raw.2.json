@@ -1,0 +1,257 @@
+[
+    {
+        "created": "2017-11-18T19:41:01.605Z",
+        "dimension": "Testicle Monster Dimension",
+        "id": 21,
+        "name": "Testicle Monster Dimension",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/7",
+            "https://rickandmortyapi.com/api/character/436"
+        ],
+        "type": "Dimension",
+        "url": "https://rickandmortyapi.com/api/location/21"
+    },
+    {
+        "created": "2017-11-18T20:27:26.218Z",
+        "dimension": "Cromulon Dimension",
+        "id": 22,
+        "name": "Signus 5 Expanse",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/24",
+            "https://rickandmortyapi.com/api/character/309"
+        ],
+        "type": "unknown",
+        "url": "https://rickandmortyapi.com/api/location/22"
+    },
+    {
+        "created": "2017-11-18T20:58:15.178Z",
+        "dimension": "Dimension C-500A",
+        "id": 23,
+        "name": "Earth (C-500A)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/37",
+            "https://rickandmortyapi.com/api/character/91",
+            "https://rickandmortyapi.com/api/character/176",
+            "https://rickandmortyapi.com/api/character/183",
+            "https://rickandmortyapi.com/api/character/195"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/23"
+    },
+    {
+        "created": "2017-11-30T11:02:41.722Z",
+        "dimension": "Replacement Dimension",
+        "id": 24,
+        "name": "Rick's Battery Microverse",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/65",
+            "https://rickandmortyapi.com/api/character/388"
+        ],
+        "type": "Microverse",
+        "url": "https://rickandmortyapi.com/api/location/24"
+    },
+    {
+        "created": "2017-11-30T11:13:46.697Z",
+        "dimension": "unknown",
+        "id": 25,
+        "name": "The Menagerie",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/67",
+            "https://rickandmortyapi.com/api/character/490",
+            "https://rickandmortyapi.com/api/character/491"
+        ],
+        "type": "Menagerie",
+        "url": "https://rickandmortyapi.com/api/location/25"
+    },
+    {
+        "created": "2017-11-30T11:41:11.452Z",
+        "dimension": "Dimension K-83",
+        "id": 26,
+        "name": "Earth (K-83)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/26"
+    },
+    {
+        "created": "2017-11-30T14:18:16.869Z",
+        "dimension": "unknown",
+        "id": 27,
+        "name": "Hideout Planet",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/79",
+            "https://rickandmortyapi.com/api/character/84"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/27"
+    },
+    {
+        "created": "2017-11-30T14:28:54.591Z",
+        "dimension": "Replacement Dimension",
+        "id": 28,
+        "name": "Unity's Planet",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/90",
+            "https://rickandmortyapi.com/api/character/188",
+            "https://rickandmortyapi.com/api/character/301",
+            "https://rickandmortyapi.com/api/character/336",
+            "https://rickandmortyapi.com/api/character/355",
+            "https://rickandmortyapi.com/api/character/372"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/28"
+    },
+    {
+        "created": "2017-12-01T11:36:16.463Z",
+        "dimension": "Replacement Dimension",
+        "id": 29,
+        "name": "Dorian 5",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/93",
+            "https://rickandmortyapi.com/api/character/104",
+            "https://rickandmortyapi.com/api/character/198"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/29"
+    },
+    {
+        "created": "2017-12-01T11:49:43.923Z",
+        "dimension": "unknown",
+        "id": 30,
+        "name": "Earth (Unknown dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/94"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/30"
+    },
+    {
+        "created": "2017-12-01T12:29:27.976Z",
+        "dimension": "Dimension J19\u03b67",
+        "id": 31,
+        "name": "Earth (J19\u03b67)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/31"
+    },
+    {
+        "created": "2017-12-26T12:46:48.798Z",
+        "dimension": "Replacement Dimension",
+        "id": 32,
+        "name": "Roy: A Life Well Lived",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/106",
+            "https://rickandmortyapi.com/api/character/393",
+            "https://rickandmortyapi.com/api/character/449",
+            "https://rickandmortyapi.com/api/character/450",
+            "https://rickandmortyapi.com/api/character/451"
+        ],
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/location/32"
+    },
+    {
+        "created": "2017-12-26T13:43:29.291Z",
+        "dimension": "Eric Stoltz Mask Dimension",
+        "id": 33,
+        "name": "Eric Stoltz Mask Earth",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/33"
+    },
+    {
+        "created": "2017-12-26T15:35:20.499Z",
+        "dimension": "Evil Rick's Target Dimension",
+        "id": 34,
+        "name": "Earth (Evil Rick's Target Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/39",
+            "https://rickandmortyapi.com/api/character/177",
+            "https://rickandmortyapi.com/api/character/232",
+            "https://rickandmortyapi.com/api/character/290",
+            "https://rickandmortyapi.com/api/character/339"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/34"
+    },
+    {
+        "created": "2017-12-26T17:51:53.018Z",
+        "dimension": "Replacement Dimension",
+        "id": 35,
+        "name": "Planet Squanch",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/47",
+            "https://rickandmortyapi.com/api/character/75",
+            "https://rickandmortyapi.com/api/character/102",
+            "https://rickandmortyapi.com/api/character/194",
+            "https://rickandmortyapi.com/api/character/199",
+            "https://rickandmortyapi.com/api/character/203",
+            "https://rickandmortyapi.com/api/character/256",
+            "https://rickandmortyapi.com/api/character/261",
+            "https://rickandmortyapi.com/api/character/308",
+            "https://rickandmortyapi.com/api/character/311",
+            "https://rickandmortyapi.com/api/character/331",
+            "https://rickandmortyapi.com/api/character/379"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/35"
+    },
+    {
+        "created": "2017-12-26T20:30:45.939Z",
+        "dimension": "unknown",
+        "id": 36,
+        "name": "Glaagablaaga",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/36"
+    },
+    {
+        "created": "2017-12-27T20:02:59.005Z",
+        "dimension": "unknown",
+        "id": 37,
+        "name": "Resort Planet",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/142",
+            "https://rickandmortyapi.com/api/character/296",
+            "https://rickandmortyapi.com/api/character/297",
+            "https://rickandmortyapi.com/api/character/319",
+            "https://rickandmortyapi.com/api/character/369"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/37"
+    },
+    {
+        "created": "2017-12-29T10:37:48.281Z",
+        "dimension": "unknown",
+        "id": 38,
+        "name": "Interdimensional Customs",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/144",
+            "https://rickandmortyapi.com/api/character/158"
+        ],
+        "type": "Customs",
+        "url": "https://rickandmortyapi.com/api/location/38"
+    },
+    {
+        "created": "2017-12-29T12:02:33.513Z",
+        "dimension": "unknown",
+        "id": 39,
+        "name": "Galactic Federation Prison",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/150"
+        ],
+        "type": "Space station",
+        "url": "https://rickandmortyapi.com/api/location/39"
+    },
+    {
+        "created": "2017-12-29T12:31:50.313Z",
+        "dimension": "unknown",
+        "id": 40,
+        "name": "Gazorpazorp",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/168",
+            "https://rickandmortyapi.com/api/character/211",
+            "https://rickandmortyapi.com/api/character/376"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/40"
+    }
+]

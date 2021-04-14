@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2018-05-22T17:29:50.642Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 481,
+        "image": "https://rickandmortyapi.com/api/character/avatar/481.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Retired General Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/481"
+    },
+    {
+        "created": "2018-05-22T17:32:32.561Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 482,
+        "image": "https://rickandmortyapi.com/api/character/avatar/482.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Secret Service Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/482"
+    },
+    {
+        "created": "2018-05-22T17:33:33.815Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 483,
+        "image": "https://rickandmortyapi.com/api/character/avatar/483.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Steve Jobs Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/483"
+    },
+    {
+        "created": "2018-05-22T17:35:26.250Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 484,
+        "image": "https://rickandmortyapi.com/api/character/avatar/484.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Sheik Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/484"
+    },
+    {
+        "created": "2018-05-22T17:36:56.925Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 485,
+        "image": "https://rickandmortyapi.com/api/character/avatar/485.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Modern Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/485"
+    },
+    {
+        "created": "2018-05-22T17:37:37.764Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 486,
+        "image": "https://rickandmortyapi.com/api/character/avatar/486.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Tan Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/486"
+    },
+    {
+        "created": "2018-05-22T17:38:28.593Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 487,
+        "image": "https://rickandmortyapi.com/api/character/avatar/487.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Visor Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/487"
+    },
+    {
+        "created": "2018-05-22T17:39:06.439Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 488,
+        "image": "https://rickandmortyapi.com/api/character/avatar/488.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Colonial Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/488"
+    },
+    {
+        "created": "2018-05-22T17:39:37.604Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 489,
+        "image": "https://rickandmortyapi.com/api/character/avatar/489.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "P-Coat Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/489"
+    },
+    {
+        "created": "2018-05-22T17:43:52.543Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Male",
+        "id": 490,
+        "image": "https://rickandmortyapi.com/api/character/avatar/490.jpeg",
+        "location": {
+            "name": "The Menagerie",
+            "url": "https://rickandmortyapi.com/api/location/25"
+        },
+        "name": "Chang",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/490"
+    },
+    {
+        "created": "2018-05-22T17:44:32.071Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Female",
+        "id": 491,
+        "image": "https://rickandmortyapi.com/api/character/avatar/491.jpeg",
+        "location": {
+            "name": "The Menagerie",
+            "url": "https://rickandmortyapi.com/api/location/25"
+        },
+        "name": "Dr. Eleanor Arroway",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/491"
+    },
+    {
+        "created": "2018-05-22T17:49:13.883Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/30"
+        ],
+        "gender": "unknown",
+        "id": 492,
+        "image": "https://rickandmortyapi.com/api/character/avatar/492.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Varrix",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/492"
+    },
+    {
+        "created": "2018-05-22T17:51:07.373Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/31"
+        ],
+        "gender": "Male",
+        "id": 493,
+        "image": "https://rickandmortyapi.com/api/character/avatar/493.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Secretary of the Interior",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/493"
+    },
+    {
+        "created": "2020-05-02T10:05:08.737Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 494,
+        "image": "https://rickandmortyapi.com/api/character/avatar/494.jpeg",
+        "location": {
+            "name": "Forbodulon Prime",
+            "url": "https://rickandmortyapi.com/api/location/79"
+        },
+        "name": "Crystal Poacher",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/494"
+    },
+    {
+        "created": "2020-05-02T10:10:44.766Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 495,
+        "image": "https://rickandmortyapi.com/api/character/avatar/495.jpeg",
+        "location": {
+            "name": "Forbodulon Prime",
+            "url": "https://rickandmortyapi.com/api/location/79"
+        },
+        "name": "Crystal Poacher",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/495"
+    },
+    {
+        "created": "2020-05-02T10:27:21.015Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 496,
+        "image": "https://rickandmortyapi.com/api/character/avatar/496.jpeg",
+        "location": {
+            "name": "Forbodulon Prime",
+            "url": "https://rickandmortyapi.com/api/location/79"
+        },
+        "name": "Crystal Poacher",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/496"
+    },
+    {
+        "created": "2020-05-02T10:30:38.622Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 497,
+        "image": "https://rickandmortyapi.com/api/character/avatar/497.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Hologram Rick",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Hologram",
+        "url": "https://rickandmortyapi.com/api/character/497"
+    },
+    {
+        "created": "2020-05-02T10:34:12.495Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 498,
+        "image": "https://rickandmortyapi.com/api/character/avatar/498.jpeg",
+        "location": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "name": "Fascist Rick",
+        "origin": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/498"
+    },
+    {
+        "created": "2020-05-02T11:24:36.156Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 499,
+        "image": "https://rickandmortyapi.com/api/character/avatar/499.jpeg",
+        "location": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "name": "Fascist Morty",
+        "origin": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/499"
+    },
+    {
+        "created": "2020-05-02T11:25:26.903Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 500,
+        "image": "https://rickandmortyapi.com/api/character/avatar/500.jpeg",
+        "location": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "name": "Fascist Mr. President",
+        "origin": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/500"
+    }
+]

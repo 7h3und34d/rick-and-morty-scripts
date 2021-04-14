@@ -1,0 +1,451 @@
+[
+    {
+        "created": "2017-12-29T18:47:23.345Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/4",
+            "https://rickandmortyapi.com/api/episode/6",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/17",
+            "https://rickandmortyapi.com/api/episode/18",
+            "https://rickandmortyapi.com/api/episode/25",
+            "https://rickandmortyapi.com/api/episode/27"
+        ],
+        "gender": "Female",
+        "id": 181,
+        "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jessica's Friend",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/181"
+    },
+    {
+        "created": "2017-12-29T18:49:48.953Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16"
+        ],
+        "gender": "Male",
+        "id": 182,
+        "image": "https://rickandmortyapi.com/api/character/avatar/182.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jim",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/182"
+    },
+    {
+        "created": "2017-12-29T18:51:29.693Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 183,
+        "image": "https://rickandmortyapi.com/api/character/avatar/183.jpeg",
+        "location": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "name": "Johnny Depp",
+        "origin": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/183"
+    },
+    {
+        "created": "2017-12-29T18:54:04.572Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 184,
+        "image": "https://rickandmortyapi.com/api/character/avatar/184.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Jon",
+        "origin": {
+            "name": "Gazorpazorp",
+            "url": "https://rickandmortyapi.com/api/location/40"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Gazorpian",
+        "url": "https://rickandmortyapi.com/api/character/184"
+    },
+    {
+        "created": "2017-12-29T18:56:15.622Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/30"
+        ],
+        "gender": "Male",
+        "id": 185,
+        "image": "https://rickandmortyapi.com/api/character/avatar/185.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Joseph Eli Lipkip",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/185"
+    },
+    {
+        "created": "2017-12-29T18:58:34.530Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Female",
+        "id": 186,
+        "image": "https://rickandmortyapi.com/api/character/avatar/186.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Joyce Smith",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/186"
+    },
+    {
+        "created": "2017-12-29T18:59:47.440Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 187,
+        "image": "https://rickandmortyapi.com/api/character/avatar/187.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Juggling Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/187"
+    },
+    {
+        "created": "2017-12-29T19:10:16.171Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/14"
+        ],
+        "gender": "Female",
+        "id": 188,
+        "image": "https://rickandmortyapi.com/api/character/avatar/188.jpeg",
+        "location": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "name": "Karen Entity",
+        "origin": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Unknown-nippled alien",
+        "url": "https://rickandmortyapi.com/api/character/188"
+    },
+    {
+        "created": "2017-12-29T19:13:57.070Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24"
+        ],
+        "gender": "Female",
+        "id": 189,
+        "image": "https://rickandmortyapi.com/api/character/avatar/189.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Katarina",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/189"
+    },
+    {
+        "created": "2017-12-29T19:26:06.900Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/30"
+        ],
+        "gender": "Female",
+        "id": 190,
+        "image": "https://rickandmortyapi.com/api/character/avatar/190.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Keara",
+        "origin": {
+            "name": "Krootabulon",
+            "url": "https://rickandmortyapi.com/api/location/45"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Krootabulan",
+        "url": "https://rickandmortyapi.com/api/character/190"
+    },
+    {
+        "created": "2017-12-29T19:40:07.816Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/4"
+        ],
+        "gender": "Male",
+        "id": 191,
+        "image": "https://rickandmortyapi.com/api/character/avatar/191.jpeg",
+        "location": {
+            "name": "Zigerion's Base",
+            "url": "https://rickandmortyapi.com/api/location/46"
+        },
+        "name": "Kevin",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Zigerion",
+        "url": "https://rickandmortyapi.com/api/character/191"
+    },
+    {
+        "created": "2017-12-29T19:49:29.297Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Male",
+        "id": 192,
+        "image": "https://rickandmortyapi.com/api/character/avatar/192.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "King Flippy Nips",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/192"
+    },
+    {
+        "created": "2017-12-29T19:58:44.743Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Male",
+        "id": 193,
+        "image": "https://rickandmortyapi.com/api/character/avatar/193.jpeg",
+        "location": {
+            "name": "Fantasy World",
+            "url": "https://rickandmortyapi.com/api/location/48"
+        },
+        "name": "King Jellybean",
+        "origin": {
+            "name": "Fantasy World",
+            "url": "https://rickandmortyapi.com/api/location/48"
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Jellybean",
+        "url": "https://rickandmortyapi.com/api/character/193"
+    },
+    {
+        "created": "2017-12-30T12:13:53.878Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "unknown",
+        "id": 194,
+        "image": "https://rickandmortyapi.com/api/character/avatar/194.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Kozbian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Tentacle alien",
+        "url": "https://rickandmortyapi.com/api/character/194"
+    },
+    {
+        "created": "2017-12-30T12:19:16.042Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Female",
+        "id": 195,
+        "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg",
+        "location": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "name": "Kristen Stewart",
+        "origin": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/195"
+    },
+    {
+        "created": "2017-12-30T12:28:52.954Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 196,
+        "image": "https://rickandmortyapi.com/api/character/avatar/196.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Krombopulos Michael",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gromflomite",
+        "url": "https://rickandmortyapi.com/api/character/196"
+    },
+    {
+        "created": "2017-12-30T12:39:09.025Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/17"
+        ],
+        "gender": "Male",
+        "id": 197,
+        "image": "https://rickandmortyapi.com/api/character/avatar/197.jpeg",
+        "location": {
+            "name": "Kyle's Teenyverse",
+            "url": "https://rickandmortyapi.com/api/location/50"
+        },
+        "name": "Kyle",
+        "origin": {
+            "name": "Zeep Xanflorp's Miniverse",
+            "url": "https://rickandmortyapi.com/api/location/49"
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Miniverse inhabitant",
+        "url": "https://rickandmortyapi.com/api/character/197"
+    },
+    {
+        "created": "2017-12-30T12:43:37.571Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Female",
+        "id": 198,
+        "image": "https://rickandmortyapi.com/api/character/avatar/198.jpeg",
+        "location": {
+            "name": "Dorian 5",
+            "url": "https://rickandmortyapi.com/api/location/29"
+        },
+        "name": "Lady Katana",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "Cyborg",
+        "url": "https://rickandmortyapi.com/api/character/198"
+    },
+    {
+        "created": "2017-12-30T12:48:44.677Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/19",
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "unknown",
+        "id": 199,
+        "image": "https://rickandmortyapi.com/api/character/avatar/199.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Larva Alien",
+        "origin": {
+            "name": "Larva Alien's Planet",
+            "url": "https://rickandmortyapi.com/api/location/51"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Larva alien",
+        "url": "https://rickandmortyapi.com/api/character/199"
+    },
+    {
+        "created": "2017-12-30T12:49:52.971Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 200,
+        "image": "https://rickandmortyapi.com/api/character/avatar/200.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Lawyer Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/200"
+    }
+]

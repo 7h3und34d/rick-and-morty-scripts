@@ -1,0 +1,444 @@
+[
+    {
+        "created": "2017-12-27T19:14:14.545Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Genderless",
+        "id": 141,
+        "image": "https://rickandmortyapi.com/api/character/avatar/141.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Ghost in a Jar",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/141"
+    },
+    {
+        "created": "2017-12-27T20:16:32.187Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "unknown",
+        "id": 142,
+        "image": "https://rickandmortyapi.com/api/character/avatar/142.jpeg",
+        "location": {
+            "name": "Resort Planet",
+            "url": "https://rickandmortyapi.com/api/location/37"
+        },
+        "name": "Gibble Snake",
+        "origin": {
+            "name": "Resort Planet",
+            "url": "https://rickandmortyapi.com/api/location/37"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Animal",
+        "url": "https://rickandmortyapi.com/api/character/142"
+    },
+    {
+        "created": "2017-12-27T20:37:26.134Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 143,
+        "image": "https://rickandmortyapi.com/api/character/avatar/143.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Glasses Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/143"
+    },
+    {
+        "created": "2017-12-29T10:37:48.319Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1"
+        ],
+        "gender": "Male",
+        "id": 144,
+        "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg",
+        "location": {
+            "name": "Interdimensional Customs",
+            "url": "https://rickandmortyapi.com/api/location/38"
+        },
+        "name": "Glenn",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gromflomite",
+        "url": "https://rickandmortyapi.com/api/character/144"
+    },
+    {
+        "created": "2017-12-29T11:03:43.118Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 145,
+        "image": "https://rickandmortyapi.com/api/character/avatar/145.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Glenn",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Eat shiter-Person",
+        "url": "https://rickandmortyapi.com/api/character/145"
+    },
+    {
+        "created": "2017-12-29T11:28:29.380Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Male",
+        "id": 146,
+        "image": "https://rickandmortyapi.com/api/character/avatar/146.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Glexo Slim Slom",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/146"
+    },
+    {
+        "created": "2017-12-29T11:38:29.578Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Male",
+        "id": 147,
+        "image": "https://rickandmortyapi.com/api/character/avatar/147.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Gobo",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/147"
+    },
+    {
+        "created": "2017-12-29T11:40:25.135Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Female",
+        "id": 148,
+        "image": "https://rickandmortyapi.com/api/character/avatar/148.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Goddess Beth",
+        "origin": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "species": "Mythological Creature",
+        "status": "unknown",
+        "type": "Goddess",
+        "url": "https://rickandmortyapi.com/api/character/148"
+    },
+    {
+        "created": "2017-12-29T11:44:00.169Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Male",
+        "id": 149,
+        "image": "https://rickandmortyapi.com/api/character/avatar/149.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Gordon Lunas",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/149"
+    },
+    {
+        "created": "2017-12-29T12:02:33.550Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 150,
+        "image": "https://rickandmortyapi.com/api/character/avatar/150.jpeg",
+        "location": {
+            "name": "Galactic Federation Prison",
+            "url": "https://rickandmortyapi.com/api/location/39"
+        },
+        "name": "Cornvelious Daniel",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gromflomite",
+        "url": "https://rickandmortyapi.com/api/character/150"
+    },
+    {
+        "created": "2017-12-29T12:31:50.388Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/7"
+        ],
+        "gender": "Female",
+        "id": 151,
+        "image": "https://rickandmortyapi.com/api/character/avatar/151.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Gwendolyn",
+        "origin": {
+            "name": "Gazorpazorp",
+            "url": "https://rickandmortyapi.com/api/location/40"
+        },
+        "species": "Robot",
+        "status": "unknown",
+        "type": "Gazorpian reproduction robot",
+        "url": "https://rickandmortyapi.com/api/character/151"
+    },
+    {
+        "created": "2017-12-29T15:20:16.842Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 152,
+        "image": "https://rickandmortyapi.com/api/character/avatar/152.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Hammerhead Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "unknown",
+        "type": "Hammerhead-Person",
+        "url": "https://rickandmortyapi.com/api/character/152"
+    },
+    {
+        "created": "2017-12-29T15:27:54.281Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8",
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "unknown",
+        "id": 153,
+        "image": "https://rickandmortyapi.com/api/character/avatar/153.jpeg",
+        "location": {
+            "name": "Hamster in Butt World",
+            "url": "https://rickandmortyapi.com/api/location/41"
+        },
+        "name": "Hamster In Butt",
+        "origin": {
+            "name": "Hamster in Butt World",
+            "url": "https://rickandmortyapi.com/api/location/41"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/153"
+    },
+    {
+        "created": "2017-12-29T15:32:05.287Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Male",
+        "id": 154,
+        "image": "https://rickandmortyapi.com/api/character/avatar/154.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Hamurai",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/154"
+    },
+    {
+        "created": "2017-12-29T15:41:18.773Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/6"
+        ],
+        "gender": "Male",
+        "id": 155,
+        "image": "https://rickandmortyapi.com/api/character/avatar/155.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Harold",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Cronenberg",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/155"
+    },
+    {
+        "created": "2017-12-29T15:44:40.083Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/23"
+        ],
+        "gender": "Male",
+        "id": 156,
+        "image": "https://rickandmortyapi.com/api/character/avatar/156.jpeg",
+        "location": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "name": "Hemorrhage",
+        "origin": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/156"
+    },
+    {
+        "created": "2017-12-29T15:47:57.352Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Genderless",
+        "id": 157,
+        "image": "https://rickandmortyapi.com/api/character/avatar/157.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Hole in the Wall Where the Men Can See it All",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "unknown",
+        "status": "unknown",
+        "type": "Hole",
+        "url": "https://rickandmortyapi.com/api/character/157"
+    },
+    {
+        "created": "2017-12-29T15:53:48.952Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1"
+        ],
+        "gender": "unknown",
+        "id": 158,
+        "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg",
+        "location": {
+            "name": "Interdimensional Customs",
+            "url": "https://rickandmortyapi.com/api/location/38"
+        },
+        "name": "Hookah Alien",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Tuskfish",
+        "url": "https://rickandmortyapi.com/api/character/158"
+    },
+    {
+        "created": "2017-12-29T16:03:28.792Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/17"
+        ],
+        "gender": "Male",
+        "id": 159,
+        "image": "https://rickandmortyapi.com/api/character/avatar/159.jpeg",
+        "location": {
+            "name": "Earth (Giant Telepathic Spiders Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/42"
+        },
+        "name": "Hunter",
+        "origin": {
+            "name": "Earth (Giant Telepathic Spiders Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/42"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/159"
+    },
+    {
+        "created": "2017-12-29T16:07:04.040Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/17"
+        ],
+        "gender": "Male",
+        "id": 160,
+        "image": "https://rickandmortyapi.com/api/character/avatar/160.jpeg",
+        "location": {
+            "name": "Earth (Giant Telepathic Spiders Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/42"
+        },
+        "name": "Hunter's Father",
+        "origin": {
+            "name": "Earth (Giant Telepathic Spiders Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/42"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/160"
+    }
+]

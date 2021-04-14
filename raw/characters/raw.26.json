@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-05-02T11:28:36.137Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 501,
+        "image": "https://rickandmortyapi.com/api/character/avatar/501.jpeg",
+        "location": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "name": "Fascist Rick\u2019s Clone",
+        "origin": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/501"
+    },
+    {
+        "created": "2020-05-02T11:35:26.572Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 502,
+        "image": "https://rickandmortyapi.com/api/character/avatar/502.jpeg",
+        "location": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "name": "Revolio Clockberg Jr.",
+        "origin": {
+            "name": "Earth (Fascist Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/77"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gear-Person",
+        "url": "https://rickandmortyapi.com/api/character/502"
+    },
+    {
+        "created": "2020-05-02T11:53:46.229Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 503,
+        "image": "https://rickandmortyapi.com/api/character/avatar/503.jpeg",
+        "location": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "name": "Fascist Shrimp Rick",
+        "origin": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Shrimp",
+        "url": "https://rickandmortyapi.com/api/character/503"
+    },
+    {
+        "created": "2020-05-02T12:05:12.832Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 504,
+        "image": "https://rickandmortyapi.com/api/character/avatar/504.jpeg",
+        "location": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "name": "Fascist Shrimp Rick\u2019s Clone",
+        "origin": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Shrimp",
+        "url": "https://rickandmortyapi.com/api/character/504"
+    },
+    {
+        "created": "2020-05-02T12:11:23.379Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 505,
+        "image": "https://rickandmortyapi.com/api/character/avatar/505.jpeg",
+        "location": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "name": "Fascist Shrimp Morty",
+        "origin": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Shrimp",
+        "url": "https://rickandmortyapi.com/api/character/505"
+    },
+    {
+        "created": "2020-05-02T12:13:03.799Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 506,
+        "image": "https://rickandmortyapi.com/api/character/avatar/506.jpeg",
+        "location": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "name": "Fascist Shrimp SS",
+        "origin": {
+            "name": "Earth (Fascist Shrimp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/80"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Shrimp",
+        "url": "https://rickandmortyapi.com/api/character/506"
+    },
+    {
+        "created": "2020-05-02T12:18:23.346Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 507,
+        "image": "https://rickandmortyapi.com/api/character/avatar/507.jpeg",
+        "location": {
+            "name": "Earth (Fascist Teddy Bear Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/81"
+        },
+        "name": "Fascist Teddy Bear Rick",
+        "origin": {
+            "name": "Earth (Fascist Teddy Bear Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/81"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Teddy Bear",
+        "url": "https://rickandmortyapi.com/api/character/507"
+    },
+    {
+        "created": "2020-05-02T12:20:28.005Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 508,
+        "image": "https://rickandmortyapi.com/api/character/avatar/508.jpeg",
+        "location": {
+            "name": "Earth (Fascist Teddy Bear Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/81"
+        },
+        "name": "Fascist Teddy Bear Rick\u2019s Clone",
+        "origin": {
+            "name": "Earth (Fascist Teddy Bear Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/81"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Teddy Bear",
+        "url": "https://rickandmortyapi.com/api/character/508"
+    },
+    {
+        "created": "2020-05-02T12:22:11.339Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 509,
+        "image": "https://rickandmortyapi.com/api/character/avatar/509.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Bully",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/509"
+    },
+    {
+        "created": "2020-05-02T12:23:38.655Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 510,
+        "image": "https://rickandmortyapi.com/api/character/avatar/510.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Anchorman",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/510"
+    },
+    {
+        "created": "2020-05-02T12:24:07.452Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Female",
+        "id": 511,
+        "image": "https://rickandmortyapi.com/api/character/avatar/511.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Anchorwoman",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/511"
+    },
+    {
+        "created": "2020-05-02T12:25:59.290Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 512,
+        "image": "https://rickandmortyapi.com/api/character/avatar/512.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Morty\u2019s Lawyer",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/512"
+    },
+    {
+        "created": "2020-05-02T12:27:08.223Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Female",
+        "id": 513,
+        "image": "https://rickandmortyapi.com/api/character/avatar/513.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Judge",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/513"
+    },
+    {
+        "created": "2020-05-02T12:28:05.671Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Female",
+        "id": 514,
+        "image": "https://rickandmortyapi.com/api/character/avatar/514.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Public Opinion Judge",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/514"
+    },
+    {
+        "created": "2020-05-02T12:34:49.151Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 515,
+        "image": "https://rickandmortyapi.com/api/character/avatar/515.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Caterpillar Mr. Goldenfold",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Caterpillar",
+        "url": "https://rickandmortyapi.com/api/character/515"
+    },
+    {
+        "created": "2020-05-02T12:36:47.872Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 516,
+        "image": "https://rickandmortyapi.com/api/character/avatar/516.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Wasp Rick",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/516"
+    },
+    {
+        "created": "2020-05-02T12:38:18.097Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 517,
+        "image": "https://rickandmortyapi.com/api/character/avatar/517.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Wasp Rick\u2019s Clone",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "unknown",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/517"
+    },
+    {
+        "created": "2020-05-02T12:39:50.688Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 518,
+        "image": "https://rickandmortyapi.com/api/character/avatar/518.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Wasp Morty",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/518"
+    },
+    {
+        "created": "2020-05-02T12:40:45.760Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Female",
+        "id": 519,
+        "image": "https://rickandmortyapi.com/api/character/avatar/519.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Wasp Summer",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/519"
+    },
+    {
+        "created": "2020-05-02T12:41:19.879Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/32"
+        ],
+        "gender": "Male",
+        "id": 520,
+        "image": "https://rickandmortyapi.com/api/character/avatar/520.jpeg",
+        "location": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "name": "Wasp Jerry",
+        "origin": {
+            "name": "Earth (Wasp Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/82"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Wasp",
+        "url": "https://rickandmortyapi.com/api/character/520"
+    }
+]

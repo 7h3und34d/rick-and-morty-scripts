@@ -1,0 +1,450 @@
+[
+    {
+        "created": "2017-11-05T10:13:45.960Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Female",
+        "id": 41,
+        "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg",
+        "location": {
+            "name": "Fantasy World",
+            "url": "https://rickandmortyapi.com/api/location/48"
+        },
+        "name": "Big Boobed Waitress",
+        "origin": {
+            "name": "Fantasy World",
+            "url": "https://rickandmortyapi.com/api/location/48"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/41"
+    },
+    {
+        "created": "2017-11-05T10:15:53.349Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 42,
+        "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Big Head Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "Human with giant head",
+        "url": "https://rickandmortyapi.com/api/character/42"
+    },
+    {
+        "created": "2017-11-05T10:17:04.997Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 43,
+        "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Big Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/43"
+    },
+    {
+        "created": "2017-11-05T10:18:11.062Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 44,
+        "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Body Guard Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/44"
+    },
+    {
+        "created": "2017-11-05T10:22:27.446Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "Male",
+        "id": 45,
+        "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Bill",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/45"
+    },
+    {
+        "created": "2017-11-05T10:24:38.089Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 46,
+        "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Bill",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Animal",
+        "status": "unknown",
+        "type": "Dog",
+        "url": "https://rickandmortyapi.com/api/character/46"
+    },
+    {
+        "created": "2017-11-05T11:13:36.018Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/21",
+            "https://rickandmortyapi.com/api/episode/22",
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 47,
+        "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg",
+        "location": {
+            "name": "Planet Squanch",
+            "url": "https://rickandmortyapi.com/api/location/35"
+        },
+        "name": "Birdperson",
+        "origin": {
+            "name": "Bird World",
+            "url": "https://rickandmortyapi.com/api/location/15"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Bird-Person",
+        "url": "https://rickandmortyapi.com/api/character/47"
+    },
+    {
+        "created": "2017-11-05T11:15:26.044Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22",
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 48,
+        "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Black Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/48"
+    },
+    {
+        "created": "2017-11-05T11:18:26.702Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "unknown",
+        "id": 49,
+        "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Blamph",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/49"
+    },
+    {
+        "created": "2017-11-05T11:21:43.756Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/14"
+        ],
+        "gender": "Male",
+        "id": 50,
+        "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Blim Blam",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Korblock",
+        "url": "https://rickandmortyapi.com/api/character/50"
+    },
+    {
+        "created": "2017-11-05T11:24:49.688Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 51,
+        "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Blue Diplomat",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/51"
+    },
+    {
+        "created": "2017-11-05T11:26:42.084Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/23"
+        ],
+        "gender": "Male",
+        "id": 52,
+        "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg",
+        "location": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "name": "Blue Footprint Guy",
+        "origin": {
+            "name": "Post-Apocalyptic Earth",
+            "url": "https://rickandmortyapi.com/api/location/8"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/52"
+    },
+    {
+        "created": "2017-11-05T11:28:38.627Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 53,
+        "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Blue Shirt Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/53"
+    },
+    {
+        "created": "2017-11-05T11:31:26.348Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 54,
+        "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Bobby Moynihan",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/54"
+    },
+    {
+        "created": "2017-11-05T11:32:53.847Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18",
+            "https://rickandmortyapi.com/api/episode/21"
+        ],
+        "gender": "unknown",
+        "id": 55,
+        "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Boobloosian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Boobloosian",
+        "url": "https://rickandmortyapi.com/api/character/55"
+    },
+    {
+        "created": "2017-11-05T11:34:16.447Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 56,
+        "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Bootleg Portal Chemist Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/56"
+    },
+    {
+        "created": "2017-11-05T11:38:29.459Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 57,
+        "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Borpocian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Elephant-Person",
+        "url": "https://rickandmortyapi.com/api/character/57"
+    },
+    {
+        "created": "2017-11-05T11:40:02.554Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/6",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/30"
+        ],
+        "gender": "Male",
+        "id": 58,
+        "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Brad",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/58"
+    },
+    {
+        "created": "2017-11-05T11:41:38.964Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/7"
+        ],
+        "gender": "Male",
+        "id": 59,
+        "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Brad Anderson",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/59"
+    },
+    {
+        "created": "2017-11-05T11:52:45.852Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Female",
+        "id": 60,
+        "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Calypso",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Superhuman",
+        "url": "https://rickandmortyapi.com/api/character/60"
+    }
+]

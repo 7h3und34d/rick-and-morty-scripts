@@ -1,0 +1,449 @@
+[
+    {
+        "created": "2018-01-10T19:46:00.622Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Female",
+        "id": 381,
+        "image": "https://rickandmortyapi.com/api/character/avatar/381.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Woman Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Chair",
+        "url": "https://rickandmortyapi.com/api/character/381"
+    },
+    {
+        "created": "2018-01-10T19:47:55.859Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Male",
+        "id": 382,
+        "image": "https://rickandmortyapi.com/api/character/avatar/382.jpeg",
+        "location": {
+            "name": "Worldender's lair",
+            "url": "https://rickandmortyapi.com/api/location/4"
+        },
+        "name": "Worldender",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/382"
+    },
+    {
+        "created": "2018-01-10T19:48:59.952Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 383,
+        "image": "https://rickandmortyapi.com/api/character/avatar/383.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Yaarb",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/383"
+    },
+    {
+        "created": "2018-01-10T19:50:19.351Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 384,
+        "image": "https://rickandmortyapi.com/api/character/avatar/384.jpeg",
+        "location": {
+            "name": "St. Gloopy Noops Hospital",
+            "url": "https://rickandmortyapi.com/api/location/16"
+        },
+        "name": "Yellow Headed Doctor",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/384"
+    },
+    {
+        "created": "2018-01-10T19:51:18.996Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 385,
+        "image": "https://rickandmortyapi.com/api/character/avatar/385.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Yellow Shirt Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/385"
+    },
+    {
+        "created": "2018-01-10T19:52:40.898Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13",
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Female",
+        "id": 386,
+        "image": "https://rickandmortyapi.com/api/character/avatar/386.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Zarbadar Gloonch",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Drumbloxian",
+        "url": "https://rickandmortyapi.com/api/character/386"
+    },
+    {
+        "created": "2018-01-10T19:54:17.951Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Female",
+        "id": 387,
+        "image": "https://rickandmortyapi.com/api/character/avatar/387.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Zarbadar's Mytholog",
+        "origin": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "species": "Mythological Creature",
+        "status": "unknown",
+        "type": "Mytholog",
+        "url": "https://rickandmortyapi.com/api/character/387"
+    },
+    {
+        "created": "2018-01-10T19:56:57.790Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/17"
+        ],
+        "gender": "Male",
+        "id": 388,
+        "image": "https://rickandmortyapi.com/api/character/avatar/388.jpeg",
+        "location": {
+            "name": "Rick's Battery Microverse",
+            "url": "https://rickandmortyapi.com/api/location/24"
+        },
+        "name": "Zeep Xanflorp",
+        "origin": {
+            "name": "Rick's Battery Microverse",
+            "url": "https://rickandmortyapi.com/api/location/24"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Microverse inhabitant",
+        "url": "https://rickandmortyapi.com/api/character/388"
+    },
+    {
+        "created": "2018-01-10T19:57:41.191Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 389,
+        "image": "https://rickandmortyapi.com/api/character/avatar/389.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Zeta Alpha Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/389"
+    },
+    {
+        "created": "2018-01-10T20:00:05.681Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/29"
+        ],
+        "gender": "Male",
+        "id": 390,
+        "image": "https://rickandmortyapi.com/api/character/avatar/390.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Zick Zack",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Floop Floopian",
+        "url": "https://rickandmortyapi.com/api/character/390"
+    },
+    {
+        "created": "2018-01-14T13:34:50.096Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Male",
+        "id": 391,
+        "image": "https://rickandmortyapi.com/api/character/avatar/391.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Uncle Steve",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Parasite",
+        "url": "https://rickandmortyapi.com/api/character/391"
+    },
+    {
+        "created": "2018-01-14T14:48:05.977Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 392,
+        "image": "https://rickandmortyapi.com/api/character/avatar/392.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Bearded Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/392"
+    },
+    {
+        "created": "2018-01-20T19:15:27.239Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 393,
+        "image": "https://rickandmortyapi.com/api/character/avatar/393.jpeg",
+        "location": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "name": "Roy",
+        "origin": {
+            "name": "Roy: A Life Well Lived",
+            "url": "https://rickandmortyapi.com/api/location/32"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Game",
+        "url": "https://rickandmortyapi.com/api/character/393"
+    },
+    {
+        "created": "2018-01-20T19:48:42.201Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/6"
+        ],
+        "gender": "Male",
+        "id": 394,
+        "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Davin",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Cronenberg",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/394"
+    },
+    {
+        "created": "2018-04-15T16:46:31.715Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/16",
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "unknown",
+        "id": 395,
+        "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg",
+        "location": {
+            "name": "Worldender's lair",
+            "url": "https://rickandmortyapi.com/api/location/4"
+        },
+        "name": "Greebybobe",
+        "origin": {
+            "name": "Girvonesk",
+            "url": "https://rickandmortyapi.com/api/location/68"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Greebybobe",
+        "url": "https://rickandmortyapi.com/api/character/395"
+    },
+    {
+        "created": "2018-04-15T17:10:07.639Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 396,
+        "image": "https://rickandmortyapi.com/api/character/avatar/396.jpeg",
+        "location": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "name": "Scary Teacher",
+        "origin": {
+            "name": "Mr. Goldenfold's dream",
+            "url": "https://rickandmortyapi.com/api/location/18"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Monster",
+        "url": "https://rickandmortyapi.com/api/character/396"
+    },
+    {
+        "created": "2018-04-15T17:15:28.777Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 397,
+        "image": "https://rickandmortyapi.com/api/character/avatar/397.jpeg",
+        "location": {
+            "name": "Snuffles' Dream",
+            "url": "https://rickandmortyapi.com/api/location/70"
+        },
+        "name": "Fido",
+        "origin": {
+            "name": "Snuffles' Dream",
+            "url": "https://rickandmortyapi.com/api/location/70"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Dog",
+        "url": "https://rickandmortyapi.com/api/character/397"
+    },
+    {
+        "created": "2018-04-15T17:23:04.169Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/2"
+        ],
+        "gender": "Male",
+        "id": 398,
+        "image": "https://rickandmortyapi.com/api/character/avatar/398.jpeg",
+        "location": {
+            "name": "Snuffles' Dream",
+            "url": "https://rickandmortyapi.com/api/location/70"
+        },
+        "name": "Accountant dog",
+        "origin": {
+            "name": "Snuffles' Dream",
+            "url": "https://rickandmortyapi.com/api/location/70"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Dog",
+        "url": "https://rickandmortyapi.com/api/character/398"
+    },
+    {
+        "created": "2018-04-15T17:34:02.076Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Male",
+        "id": 399,
+        "image": "https://rickandmortyapi.com/api/character/avatar/399.jpeg",
+        "location": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "name": "Tiny-persons advocacy group lawyer",
+        "origin": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Giant",
+        "url": "https://rickandmortyapi.com/api/character/399"
+    },
+    {
+        "created": "2018-04-15T17:36:11.295Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Male",
+        "id": 400,
+        "image": "https://rickandmortyapi.com/api/character/avatar/400.jpeg",
+        "location": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "name": "Giant Judge",
+        "origin": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Giant",
+        "url": "https://rickandmortyapi.com/api/character/400"
+    }
+]

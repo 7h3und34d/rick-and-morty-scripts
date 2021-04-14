@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-08-06T15:59:05.320Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 621,
+        "image": "https://rickandmortyapi.com/api/character/avatar/621.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Ruth Bader Ginsburg",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/621"
+    },
+    {
+        "created": "2020-08-06T15:59:44.277Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 622,
+        "image": "https://rickandmortyapi.com/api/character/avatar/622.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Sarge",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/622"
+    },
+    {
+        "created": "2020-08-06T16:01:42.796Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 623,
+        "image": "https://rickandmortyapi.com/api/character/avatar/623.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Shrek The Musical Fan",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/623"
+    },
+    {
+        "created": "2020-08-06T16:03:17.291Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 624,
+        "image": "https://rickandmortyapi.com/api/character/avatar/624.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Snuffles",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/624"
+    },
+    {
+        "created": "2020-08-06T16:24:53.547Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 625,
+        "image": "https://rickandmortyapi.com/api/character/avatar/625.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Storylord",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/625"
+    },
+    {
+        "created": "2020-08-06T16:34:20.500Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 626,
+        "image": "https://rickandmortyapi.com/api/character/avatar/626.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Tammy Guetermann",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/626"
+    },
+    {
+        "created": "2020-08-06T16:35:31.655Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Genderless",
+        "id": 627,
+        "image": "https://rickandmortyapi.com/api/character/avatar/627.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "The Concept of Time",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "unknown",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/627"
+    },
+    {
+        "created": "2020-08-06T16:36:20.255Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 628,
+        "image": "https://rickandmortyapi.com/api/character/avatar/628.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Beth Smith",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/628"
+    },
+    {
+        "created": "2020-08-06T16:37:48.051Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 629,
+        "image": "https://rickandmortyapi.com/api/character/avatar/629.jpeg",
+        "location": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "name": "Summer Smith",
+        "origin": {
+            "name": "Morty\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/99"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/629"
+    },
+    {
+        "created": "2020-08-06T16:38:30.136Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 630,
+        "image": "https://rickandmortyapi.com/api/character/avatar/630.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Morty Smith",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/630"
+    },
+    {
+        "created": "2020-08-06T16:39:08.485Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 631,
+        "image": "https://rickandmortyapi.com/api/character/avatar/631.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Rick Sanchez",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/631"
+    },
+    {
+        "created": "2020-08-06T16:39:50.056Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 632,
+        "image": "https://rickandmortyapi.com/api/character/avatar/632.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Train Cop",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/632"
+    },
+    {
+        "created": "2020-08-06T16:40:54.181Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 633,
+        "image": "https://rickandmortyapi.com/api/character/avatar/633.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Train Cops",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/633"
+    },
+    {
+        "created": "2020-08-06T16:42:42.455Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 634,
+        "image": "https://rickandmortyapi.com/api/character/avatar/634.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Train Cops Instructor",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/634"
+    },
+    {
+        "created": "2020-08-06T16:43:46.757Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 635,
+        "image": "https://rickandmortyapi.com/api/character/avatar/635.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Darth Poopybutthole",
+        "origin": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "species": "Poopybutthole",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/635"
+    },
+    {
+        "created": "2020-08-06T16:45:03.209Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 636,
+        "image": "https://rickandmortyapi.com/api/character/avatar/636.jpeg",
+        "location": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "name": "Evil Morty",
+        "origin": {
+            "name": "Ricks\u2019s Story",
+            "url": "https://rickandmortyapi.com/api/location/100"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/636"
+    },
+    {
+        "created": "2020-08-06T16:49:30.253Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Female",
+        "id": 637,
+        "image": "https://rickandmortyapi.com/api/character/avatar/637.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Morty\u2019s Disguise",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/637"
+    },
+    {
+        "created": "2020-08-06T16:50:10.447Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 638,
+        "image": "https://rickandmortyapi.com/api/character/avatar/638.jpeg",
+        "location": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "name": "Rick\u2019s Disguise",
+        "origin": {
+            "name": "Story Train",
+            "url": "https://rickandmortyapi.com/api/location/96"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/638"
+    },
+    {
+        "created": "2020-08-06T16:51:23.084Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/37"
+        ],
+        "gender": "Male",
+        "id": 639,
+        "image": "https://rickandmortyapi.com/api/character/avatar/639.jpeg",
+        "location": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "name": "Uncle Nibbles",
+        "origin": {
+            "name": "Tickets Please Guy Nightmare",
+            "url": "https://rickandmortyapi.com/api/location/98"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Soulless Puppet",
+        "url": "https://rickandmortyapi.com/api/character/639"
+    },
+    {
+        "created": "2020-08-07T11:36:14.528Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/38"
+        ],
+        "gender": "Male",
+        "id": 640,
+        "image": "https://rickandmortyapi.com/api/character/avatar/640.jpeg",
+        "location": {
+            "name": "Glorzo Asteroid",
+            "url": "https://rickandmortyapi.com/api/location/101"
+        },
+        "name": "Angry Glorzo",
+        "origin": {
+            "name": "Glorzo Asteroid",
+            "url": "https://rickandmortyapi.com/api/location/101"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Glorzo",
+        "url": "https://rickandmortyapi.com/api/character/640"
+    }
+]

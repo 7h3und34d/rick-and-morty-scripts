@@ -1,0 +1,451 @@
+[
+    {
+        "created": "2017-11-30T14:23:41.053Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Male",
+        "id": 81,
+        "image": "https://rickandmortyapi.com/api/character/avatar/81.jpeg",
+        "location": {
+            "name": "Worldender's lair",
+            "url": "https://rickandmortyapi.com/api/location/4"
+        },
+        "name": "Crocubot",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Animal",
+        "status": "Dead",
+        "type": "Robot-Crocodile hybrid",
+        "url": "https://rickandmortyapi.com/api/character/81"
+    },
+    {
+        "created": "2017-11-30T14:28:54.596Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/6",
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 82,
+        "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Cronenberg Rick",
+        "origin": {
+            "name": "Cronenberg Earth",
+            "url": "https://rickandmortyapi.com/api/location/12"
+        },
+        "species": "Cronenberg",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/82"
+    },
+    {
+        "created": "2017-11-30T20:02:29.204Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/6",
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 83,
+        "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Cronenberg Morty",
+        "origin": {
+            "name": "Cronenberg Earth",
+            "url": "https://rickandmortyapi.com/api/location/12"
+        },
+        "species": "Cronenberg",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/83"
+    },
+    {
+        "created": "2017-11-30T20:41:48.080Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 84,
+        "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg",
+        "location": {
+            "name": "Hideout Planet",
+            "url": "https://rickandmortyapi.com/api/location/27"
+        },
+        "name": "Cult Leader Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/84"
+    },
+    {
+        "created": "2017-11-30T20:49:52.133Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 85,
+        "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Cyclops Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/85"
+    },
+    {
+        "created": "2017-11-30T20:53:10.382Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10",
+            "https://rickandmortyapi.com/api/episode/22",
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 86,
+        "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Cyclops Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/86"
+    },
+    {
+        "created": "2017-11-30T21:08:32.534Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/4"
+        ],
+        "gender": "Female",
+        "id": 87,
+        "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg",
+        "location": {
+            "name": "Zigerion's Base",
+            "url": "https://rickandmortyapi.com/api/location/46"
+        },
+        "name": "Cynthia",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Zigerion",
+        "url": "https://rickandmortyapi.com/api/character/87"
+    },
+    {
+        "created": "2017-11-30T21:16:35.633Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8",
+            "https://rickandmortyapi.com/api/episode/9",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Female",
+        "id": 88,
+        "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Cynthia",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/88"
+    },
+    {
+        "created": "2017-12-01T10:32:08.340Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/5"
+        ],
+        "gender": "Male",
+        "id": 89,
+        "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg",
+        "location": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "name": "Dale",
+        "origin": {
+            "name": "Giant's Town",
+            "url": "https://rickandmortyapi.com/api/location/14"
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Giant",
+        "url": "https://rickandmortyapi.com/api/character/89"
+    },
+    {
+        "created": "2017-12-01T10:54:34.736Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/14"
+        ],
+        "gender": "Male",
+        "id": 90,
+        "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg",
+        "location": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "name": "Daron Jefferson",
+        "origin": {
+            "name": "Unity's Planet",
+            "url": "https://rickandmortyapi.com/api/location/28"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Cone-nippled alien",
+        "url": "https://rickandmortyapi.com/api/character/90"
+    },
+    {
+        "created": "2017-12-01T11:12:25.105Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 91,
+        "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg",
+        "location": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "name": "David Letterman",
+        "origin": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/91"
+    },
+    {
+        "created": "2017-12-01T11:20:51.247Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/6"
+        ],
+        "gender": "Male",
+        "id": 92,
+        "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Davin",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/92"
+    },
+    {
+        "created": "2017-12-01T11:36:16.467Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "Male",
+        "id": 93,
+        "image": "https://rickandmortyapi.com/api/character/avatar/93.jpeg",
+        "location": {
+            "name": "Dorian 5",
+            "url": "https://rickandmortyapi.com/api/location/29"
+        },
+        "name": "Diablo Verde",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Demon",
+        "url": "https://rickandmortyapi.com/api/character/93"
+    },
+    {
+        "created": "2017-12-01T11:49:43.929Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Female",
+        "id": 94,
+        "image": "https://rickandmortyapi.com/api/character/avatar/94.jpeg",
+        "location": {
+            "name": "Earth (Unknown dimension)",
+            "url": "https://rickandmortyapi.com/api/location/30"
+        },
+        "name": "Diane Sanchez",
+        "origin": {
+            "name": "Earth (Unknown dimension)",
+            "url": "https://rickandmortyapi.com/api/location/30"
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/94"
+    },
+    {
+        "created": "2017-12-01T11:54:36.670Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "unknown",
+        "id": 95,
+        "image": "https://rickandmortyapi.com/api/character/avatar/95.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Dipper and Mabel Mortys",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/95"
+    },
+    {
+        "created": "2017-12-01T11:59:04.796Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 96,
+        "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Tuberculosis",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/96"
+    },
+    {
+        "created": "2017-12-01T12:00:27.028Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 97,
+        "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Gonorrhea",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/97"
+    },
+    {
+        "created": "2017-12-01T12:01:43.742Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 98,
+        "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Hepatitis A",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/98"
+    },
+    {
+        "created": "2017-12-01T12:02:00.935Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 99,
+        "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Hepatitis C",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/99"
+    },
+    {
+        "created": "2017-12-01T12:02:21.611Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3"
+        ],
+        "gender": "unknown",
+        "id": 100,
+        "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg",
+        "location": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "name": "Bubonic Plague",
+        "origin": {
+            "name": "Anatomy Park",
+            "url": "https://rickandmortyapi.com/api/location/5"
+        },
+        "species": "Disease",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/100"
+    }
+]

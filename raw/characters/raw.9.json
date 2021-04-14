@@ -1,0 +1,461 @@
+[
+    {
+        "created": "2017-12-29T16:10:40.290Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16"
+        ],
+        "gender": "Female",
+        "id": 161,
+        "image": "https://rickandmortyapi.com/api/character/avatar/161.jpeg",
+        "location": {
+            "name": "Alphabetrium",
+            "url": "https://rickandmortyapi.com/api/location/43"
+        },
+        "name": "Hydrogen-F",
+        "origin": {
+            "name": "Alphabetrium",
+            "url": "https://rickandmortyapi.com/api/location/43"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Alphabetrian",
+        "url": "https://rickandmortyapi.com/api/character/161"
+    },
+    {
+        "created": "2017-12-29T16:42:59.207Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16"
+        ],
+        "gender": "Male",
+        "id": 162,
+        "image": "https://rickandmortyapi.com/api/character/avatar/162.jpeg",
+        "location": {
+            "name": "Alphabetrium",
+            "url": "https://rickandmortyapi.com/api/location/43"
+        },
+        "name": "Ice-T",
+        "origin": {
+            "name": "Alphabetrium",
+            "url": "https://rickandmortyapi.com/api/location/43"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Alphabetrian",
+        "url": "https://rickandmortyapi.com/api/character/162"
+    },
+    {
+        "created": "2017-12-29T16:46:41.345Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Male",
+        "id": 163,
+        "image": "https://rickandmortyapi.com/api/character/avatar/163.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Ideal Jerry",
+        "origin": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Mytholog",
+        "url": "https://rickandmortyapi.com/api/character/163"
+    },
+    {
+        "created": "2017-12-29T17:03:08.645Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 164,
+        "image": "https://rickandmortyapi.com/api/character/avatar/164.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Insurance Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/164"
+    },
+    {
+        "created": "2017-12-29T17:05:15.514Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 165,
+        "image": "https://rickandmortyapi.com/api/character/avatar/165.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Investigator Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/165"
+    },
+    {
+        "created": "2017-12-29T17:06:28.325Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/31"
+        ],
+        "gender": "Male",
+        "id": 166,
+        "image": "https://rickandmortyapi.com/api/character/avatar/166.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Invisi-trooper",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/166"
+    },
+    {
+        "created": "2017-12-29T17:07:59.024Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24"
+        ],
+        "gender": "unknown",
+        "id": 167,
+        "image": "https://rickandmortyapi.com/api/character/avatar/167.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Izzy",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Cat",
+        "url": "https://rickandmortyapi.com/api/character/167"
+    },
+    {
+        "created": "2017-12-29T17:14:03.430Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/7"
+        ],
+        "gender": "Female",
+        "id": 168,
+        "image": "https://rickandmortyapi.com/api/character/avatar/168.jpeg",
+        "location": {
+            "name": "Gazorpazorp",
+            "url": "https://rickandmortyapi.com/api/location/40"
+        },
+        "name": "Jackie",
+        "origin": {
+            "name": "Gazorpazorp",
+            "url": "https://rickandmortyapi.com/api/location/40"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Gazorpian",
+        "url": "https://rickandmortyapi.com/api/character/168"
+    },
+    {
+        "created": "2017-12-29T17:20:52.037Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/3",
+            "https://rickandmortyapi.com/api/episode/15"
+        ],
+        "gender": "Male",
+        "id": 169,
+        "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Jacob",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/169"
+    },
+    {
+        "created": "2017-12-29T17:22:17.707Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/27"
+        ],
+        "gender": "Female",
+        "id": 170,
+        "image": "https://rickandmortyapi.com/api/character/avatar/170.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jacqueline",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/170"
+    },
+    {
+        "created": "2017-12-29T17:25:38.138Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/24"
+        ],
+        "gender": "Male",
+        "id": 171,
+        "image": "https://rickandmortyapi.com/api/character/avatar/171.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jaguar",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/171"
+    },
+    {
+        "created": "2017-12-29T17:30:20.654Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/16"
+        ],
+        "gender": "Male",
+        "id": 172,
+        "image": "https://rickandmortyapi.com/api/character/avatar/172.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jamey",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/172"
+    },
+    {
+        "created": "2017-12-29T17:33:23.972Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/19"
+        ],
+        "gender": "Male",
+        "id": 173,
+        "image": "https://rickandmortyapi.com/api/character/avatar/173.jpeg",
+        "location": {
+            "name": "Interdimensional Cable",
+            "url": "https://rickandmortyapi.com/api/location/6"
+        },
+        "name": "Jan-Michael Vincent",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/173"
+    },
+    {
+        "created": "2017-12-29T17:50:19.991Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "Male",
+        "id": 174,
+        "image": "https://rickandmortyapi.com/api/character/avatar/174.jpeg",
+        "location": {
+            "name": "Jerryboree",
+            "url": "https://rickandmortyapi.com/api/location/44"
+        },
+        "name": "Jerry 5-126",
+        "origin": {
+            "name": "Earth (5-126)",
+            "url": "https://rickandmortyapi.com/api/location/17"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/174"
+    },
+    {
+        "created": "2017-12-29T18:07:17.610Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/2",
+            "https://rickandmortyapi.com/api/episode/3",
+            "https://rickandmortyapi.com/api/episode/4",
+            "https://rickandmortyapi.com/api/episode/5",
+            "https://rickandmortyapi.com/api/episode/6",
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 175,
+        "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Jerry Smith",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/175"
+    },
+    {
+        "created": "2017-12-29T18:25:11.930Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/8"
+        ],
+        "gender": "Male",
+        "id": 176,
+        "image": "https://rickandmortyapi.com/api/character/avatar/176.jpeg",
+        "location": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "name": "Celebrity Jerry",
+        "origin": {
+            "name": "Earth (C-500A)",
+            "url": "https://rickandmortyapi.com/api/location/23"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/176"
+    },
+    {
+        "created": "2017-12-29T18:28:19.424Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 177,
+        "image": "https://rickandmortyapi.com/api/character/avatar/177.jpeg",
+        "location": {
+            "name": "Earth (Evil Rick's Target Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/34"
+        },
+        "name": "Jerry Smith",
+        "origin": {
+            "name": "Earth (Evil Rick's Target Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/34"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/177"
+    },
+    {
+        "created": "2017-12-29T18:29:31.279Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/18"
+        ],
+        "gender": "Male",
+        "id": 178,
+        "image": "https://rickandmortyapi.com/api/character/avatar/178.jpeg",
+        "location": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "name": "Jerry's Mytholog",
+        "origin": {
+            "name": "Nuptia 4",
+            "url": "https://rickandmortyapi.com/api/location/13"
+        },
+        "species": "Mythological Creature",
+        "status": "Dead",
+        "type": "Mytholog",
+        "url": "https://rickandmortyapi.com/api/character/178"
+    },
+    {
+        "created": "2017-12-29T18:34:37.806Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/4",
+            "https://rickandmortyapi.com/api/episode/6"
+        ],
+        "gender": "Female",
+        "id": 179,
+        "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg",
+        "location": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "name": "Jessica",
+        "origin": {
+            "name": "Earth (C-137)",
+            "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "species": "Cronenberg",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/179"
+    },
+    {
+        "created": "2017-12-29T18:36:27.225Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/13",
+            "https://rickandmortyapi.com/api/episode/17",
+            "https://rickandmortyapi.com/api/episode/18",
+            "https://rickandmortyapi.com/api/episode/26",
+            "https://rickandmortyapi.com/api/episode/27",
+            "https://rickandmortyapi.com/api/episode/28",
+            "https://rickandmortyapi.com/api/episode/29",
+            "https://rickandmortyapi.com/api/episode/30",
+            "https://rickandmortyapi.com/api/episode/32",
+            "https://rickandmortyapi.com/api/episode/39"
+        ],
+        "gender": "Female",
+        "id": 180,
+        "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Jessica",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/180"
+    }
+]

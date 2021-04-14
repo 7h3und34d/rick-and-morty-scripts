@@ -1,0 +1,446 @@
+[
+    {
+        "created": "2018-04-15T21:51:50.534Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Female",
+        "id": 421,
+        "image": "https://rickandmortyapi.com/api/character/avatar/421.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "Rich Plutonian",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/421"
+    },
+    {
+        "created": "2018-04-15T21:52:14.642Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/9"
+        ],
+        "gender": "Male",
+        "id": 422,
+        "image": "https://rickandmortyapi.com/api/character/avatar/422.jpeg",
+        "location": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "name": "Rich Plutonian",
+        "origin": {
+            "name": "Pluto",
+            "url": "https://rickandmortyapi.com/api/location/47"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Plutonian",
+        "url": "https://rickandmortyapi.com/api/character/422"
+    },
+    {
+        "created": "2018-04-16T21:08:47.956Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/11"
+        ],
+        "gender": "unknown",
+        "id": 423,
+        "image": "https://rickandmortyapi.com/api/character/avatar/423.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Synthetic Laser Eels",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Eel",
+        "url": "https://rickandmortyapi.com/api/character/423"
+    },
+    {
+        "created": "2018-04-16T21:45:55.310Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 424,
+        "image": "https://rickandmortyapi.com/api/character/avatar/424.jpeg",
+        "location": {
+            "name": "Earth (Pizza Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/71"
+        },
+        "name": "Pizza-person",
+        "origin": {
+            "name": "Earth (Pizza Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/71"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Pizza",
+        "url": "https://rickandmortyapi.com/api/character/424"
+    },
+    {
+        "created": "2018-04-16T21:46:18.362Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 425,
+        "image": "https://rickandmortyapi.com/api/character/avatar/425.jpeg",
+        "location": {
+            "name": "Earth (Pizza Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/71"
+        },
+        "name": "Pizza-person",
+        "origin": {
+            "name": "Earth (Pizza Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/71"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Pizza",
+        "url": "https://rickandmortyapi.com/api/character/425"
+    },
+    {
+        "created": "2018-04-16T21:51:21.379Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Female",
+        "id": 426,
+        "image": "https://rickandmortyapi.com/api/character/avatar/426.jpeg",
+        "location": {
+            "name": "Greasy Grandma World",
+            "url": "https://rickandmortyapi.com/api/location/73"
+        },
+        "name": "Greasy Grandma",
+        "origin": {
+            "name": "Greasy Grandma World",
+            "url": "https://rickandmortyapi.com/api/location/73"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Grandma",
+        "url": "https://rickandmortyapi.com/api/character/426"
+    },
+    {
+        "created": "2018-04-16T21:54:05.375Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 427,
+        "image": "https://rickandmortyapi.com/api/character/avatar/427.jpeg",
+        "location": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "name": "Phone-person",
+        "origin": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Phone",
+        "url": "https://rickandmortyapi.com/api/character/427"
+    },
+    {
+        "created": "2018-04-16T21:54:48.372Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 428,
+        "image": "https://rickandmortyapi.com/api/character/avatar/428.jpeg",
+        "location": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "name": "Phone-person",
+        "origin": {
+            "name": "Earth (Phone Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/72"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Phone",
+        "url": "https://rickandmortyapi.com/api/character/428"
+    },
+    {
+        "created": "2018-04-16T21:59:25.798Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 429,
+        "image": "https://rickandmortyapi.com/api/character/avatar/429.jpeg",
+        "location": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "name": "Chair-person",
+        "origin": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Chair",
+        "url": "https://rickandmortyapi.com/api/character/429"
+    },
+    {
+        "created": "2018-04-16T21:59:48.220Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 430,
+        "image": "https://rickandmortyapi.com/api/character/avatar/430.jpeg",
+        "location": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "name": "Chair-person",
+        "origin": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Chair",
+        "url": "https://rickandmortyapi.com/api/character/430"
+    },
+    {
+        "created": "2018-04-16T22:01:17.927Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 431,
+        "image": "https://rickandmortyapi.com/api/character/avatar/431.jpeg",
+        "location": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "name": "Chair-homeless",
+        "origin": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Chair",
+        "url": "https://rickandmortyapi.com/api/character/431"
+    },
+    {
+        "created": "2018-04-16T22:02:26.106Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 432,
+        "image": "https://rickandmortyapi.com/api/character/avatar/432.jpeg",
+        "location": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "name": "Chair-waiter",
+        "origin": {
+            "name": "Earth (Chair Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/74"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Chair",
+        "url": "https://rickandmortyapi.com/api/character/432"
+    },
+    {
+        "created": "2018-04-16T22:05:05.745Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "unknown",
+        "id": 433,
+        "image": "https://rickandmortyapi.com/api/character/avatar/433.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Doopidoo",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Animal",
+        "status": "Alive",
+        "type": "Doopidoo",
+        "url": "https://rickandmortyapi.com/api/character/433"
+    },
+    {
+        "created": "2018-04-16T22:16:17.789Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/10"
+        ],
+        "gender": "Male",
+        "id": 434,
+        "image": "https://rickandmortyapi.com/api/character/avatar/434.jpeg",
+        "location": {
+            "name": "unknown",
+            "url": ""
+        },
+        "name": "Super Weird Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/434"
+    },
+    {
+        "created": "2018-04-16T22:21:57.962Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/1",
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/19",
+            "https://rickandmortyapi.com/api/episode/25"
+        ],
+        "gender": "unknown",
+        "id": 435,
+        "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Pripudlian",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Pripudlian",
+        "url": "https://rickandmortyapi.com/api/character/435"
+    },
+    {
+        "created": "2018-04-16T22:33:01.337Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/11",
+            "https://rickandmortyapi.com/api/episode/13"
+        ],
+        "gender": "unknown",
+        "id": 436,
+        "image": "https://rickandmortyapi.com/api/character/avatar/436.jpeg",
+        "location": {
+            "name": "Testicle Monster Dimension",
+            "url": "https://rickandmortyapi.com/api/location/21"
+        },
+        "name": "Giant Testicle Monster",
+        "origin": {
+            "name": "Testicle Monster Dimension",
+            "url": "https://rickandmortyapi.com/api/location/21"
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/436"
+    },
+    {
+        "created": "2018-05-01T11:51:10.604Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/12"
+        ],
+        "gender": "Male",
+        "id": 437,
+        "image": "https://rickandmortyapi.com/api/character/avatar/437.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Michael",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/437"
+    },
+    {
+        "created": "2018-05-01T11:57:16.266Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/12"
+        ],
+        "gender": "Male",
+        "id": 438,
+        "image": "https://rickandmortyapi.com/api/character/avatar/438.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Michael's Lawyer",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/438"
+    },
+    {
+        "created": "2018-05-01T11:58:43.275Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/12"
+        ],
+        "gender": "Female",
+        "id": 439,
+        "image": "https://rickandmortyapi.com/api/character/avatar/439.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Veterinary",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/439"
+    },
+    {
+        "created": "2018-05-01T11:59:15.544Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/12"
+        ],
+        "gender": "Male",
+        "id": 440,
+        "image": "https://rickandmortyapi.com/api/character/avatar/440.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Veterinary Nurse",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/440"
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "created": "2017-12-31T19:57:36.468Z",
+        "dimension": "Dimension D716-C",
+        "id": 61,
+        "name": "Earth (D716-C)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/61"
+    },
+    {
+        "created": "2017-12-31T20:16:52.263Z",
+        "dimension": "Dimension J-22",
+        "id": 62,
+        "name": "Earth (J-22)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/62"
+    },
+    {
+        "created": "2018-01-10T17:55:14.227Z",
+        "dimension": "Replacement Dimension",
+        "id": 63,
+        "name": "Froopyland",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/350"
+        ],
+        "type": "Artificially generated world",
+        "url": "https://rickandmortyapi.com/api/location/63"
+    },
+    {
+        "created": "2018-01-10T18:20:41.627Z",
+        "dimension": "Replacement Dimension",
+        "id": 64,
+        "name": "Detoxifier",
+        "residents": [],
+        "type": "Machine",
+        "url": "https://rickandmortyapi.com/api/location/64"
+    },
+    {
+        "created": "2018-01-10T19:03:13.484Z",
+        "dimension": "unknown",
+        "id": 65,
+        "name": "Trunk World",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/65"
+    },
+    {
+        "created": "2018-01-10T19:56:57.717Z",
+        "dimension": "unknown",
+        "id": 66,
+        "name": "Plopstar",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/371"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/66"
+    },
+    {
+        "created": "2018-01-21T19:01:19.496Z",
+        "dimension": "Replacement Dimension",
+        "id": 67,
+        "name": "Blips and Chitz",
+        "residents": [],
+        "type": "Arcade",
+        "url": "https://rickandmortyapi.com/api/location/67"
+    },
+    {
+        "created": "2018-04-15T16:39:38.598Z",
+        "dimension": "unknown",
+        "id": 68,
+        "name": "Girvonesk",
+        "residents": [],
+        "type": "unknown",
+        "url": "https://rickandmortyapi.com/api/location/68"
+    },
+    {
+        "created": "2018-04-15T16:55:56.212Z",
+        "dimension": "Dimension C-35",
+        "id": 69,
+        "name": "Earth (C-35)",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/69"
+    },
+    {
+        "created": "2018-04-15T17:13:54.071Z",
+        "dimension": "Dimension C-137",
+        "id": 70,
+        "name": "Snuffles' Dream",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/397",
+            "https://rickandmortyapi.com/api/character/398"
+        ],
+        "type": "Dream",
+        "url": "https://rickandmortyapi.com/api/location/70"
+    },
+    {
+        "created": "2018-04-15T17:55:04.478Z",
+        "dimension": "Pizza Dimension",
+        "id": 71,
+        "name": "Earth (Pizza Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/424",
+            "https://rickandmortyapi.com/api/character/425"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/71"
+    },
+    {
+        "created": "2018-04-15T17:56:09.117Z",
+        "dimension": "Phone Dimension",
+        "id": 72,
+        "name": "Earth (Phone Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/404",
+            "https://rickandmortyapi.com/api/character/427",
+            "https://rickandmortyapi.com/api/character/428"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/72"
+    },
+    {
+        "created": "2018-04-16T21:50:20.144Z",
+        "dimension": "unknown",
+        "id": 73,
+        "name": "Greasy Grandma World",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/426"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/73"
+    },
+    {
+        "created": "2018-04-16T21:58:24.292Z",
+        "dimension": "Chair Dimension",
+        "id": 74,
+        "name": "Earth (Chair Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/429",
+            "https://rickandmortyapi.com/api/character/430",
+            "https://rickandmortyapi.com/api/character/431",
+            "https://rickandmortyapi.com/api/character/432"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/74"
+    },
+    {
+        "created": "2018-05-01T15:27:20.251Z",
+        "dimension": "unknown",
+        "id": 75,
+        "name": "\u00c1rboles Mentirosos",
+        "residents": [],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/75"
+    },
+    {
+        "created": "2018-05-22T20:49:01.820Z",
+        "dimension": "unknown",
+        "id": 76,
+        "name": "Alien Day Spa",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/470"
+        ],
+        "type": "Spa",
+        "url": "https://rickandmortyapi.com/api/location/76"
+    },
+    {
+        "created": "2020-05-02T09:39:49.158Z",
+        "dimension": "Fascist Dimension",
+        "id": 77,
+        "name": "Earth (Fascist Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/242",
+            "https://rickandmortyapi.com/api/character/498",
+            "https://rickandmortyapi.com/api/character/499",
+            "https://rickandmortyapi.com/api/character/500",
+            "https://rickandmortyapi.com/api/character/501",
+            "https://rickandmortyapi.com/api/character/502"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/77"
+    },
+    {
+        "created": "2020-05-02T09:47:39.754Z",
+        "dimension": "Replacement Dimension",
+        "id": 78,
+        "name": "Snake Planet",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/313",
+            "https://rickandmortyapi.com/api/character/571",
+            "https://rickandmortyapi.com/api/character/572",
+            "https://rickandmortyapi.com/api/character/573",
+            "https://rickandmortyapi.com/api/character/574",
+            "https://rickandmortyapi.com/api/character/576",
+            "https://rickandmortyapi.com/api/character/577",
+            "https://rickandmortyapi.com/api/character/578",
+            "https://rickandmortyapi.com/api/character/579",
+            "https://rickandmortyapi.com/api/character/580",
+            "https://rickandmortyapi.com/api/character/581",
+            "https://rickandmortyapi.com/api/character/582",
+            "https://rickandmortyapi.com/api/character/583",
+            "https://rickandmortyapi.com/api/character/587",
+            "https://rickandmortyapi.com/api/character/589"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/78"
+    },
+    {
+        "created": "2020-05-02T10:04:05.509Z",
+        "dimension": "Replacement Dimension",
+        "id": 79,
+        "name": "Forbodulon Prime",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/494",
+            "https://rickandmortyapi.com/api/character/495",
+            "https://rickandmortyapi.com/api/character/496"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/79"
+    },
+    {
+        "created": "2020-05-02T11:52:35.156Z",
+        "dimension": "Fascist Shrimp Dimension",
+        "id": 80,
+        "name": "Earth (Fascist Shrimp Dimension)",
+        "residents": [
+            "https://rickandmortyapi.com/api/character/503",
+            "https://rickandmortyapi.com/api/character/504",
+            "https://rickandmortyapi.com/api/character/505",
+            "https://rickandmortyapi.com/api/character/506"
+        ],
+        "type": "Planet",
+        "url": "https://rickandmortyapi.com/api/location/80"
+    }
+]

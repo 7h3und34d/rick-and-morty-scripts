@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2018-05-22T16:06:28.494Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 461,
+        "image": "https://rickandmortyapi.com/api/character/avatar/461.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Communication's Responsible Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/461"
+    },
+    {
+        "created": "2018-05-22T16:16:02.653Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 462,
+        "image": "https://rickandmortyapi.com/api/character/avatar/462.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Teleportation's Responsible Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/462"
+    },
+    {
+        "created": "2018-05-22T16:21:44.379Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 463,
+        "image": "https://rickandmortyapi.com/api/character/avatar/463.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "SEAL Team Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/463"
+    },
+    {
+        "created": "2018-05-22T16:21:58.176Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 464,
+        "image": "https://rickandmortyapi.com/api/character/avatar/464.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "SEAL Team Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/464"
+    },
+    {
+        "created": "2018-05-22T16:22:12.309Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 465,
+        "image": "https://rickandmortyapi.com/api/character/avatar/465.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "SEAL Team Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/465"
+    },
+    {
+        "created": "2018-05-22T16:23:24.470Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/22"
+        ],
+        "gender": "Male",
+        "id": 466,
+        "image": "https://rickandmortyapi.com/api/character/avatar/466.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "SEAL Team Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/466"
+    },
+    {
+        "created": "2018-05-22T16:46:18.038Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 467,
+        "image": "https://rickandmortyapi.com/api/character/avatar/467.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Morphizer-XE Customer Support",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/467"
+    },
+    {
+        "created": "2018-05-22T16:46:37.603Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 468,
+        "image": "https://rickandmortyapi.com/api/character/avatar/468.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Morphizer-XE Customer Support",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/468"
+    },
+    {
+        "created": "2018-05-22T16:46:50.518Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/26"
+        ],
+        "gender": "Male",
+        "id": 469,
+        "image": "https://rickandmortyapi.com/api/character/avatar/469.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Morphizer-XE Customer Support",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "unknown",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/469"
+    },
+    {
+        "created": "2018-05-22T17:01:59.602Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/27"
+        ],
+        "gender": "Male",
+        "id": 470,
+        "image": "https://rickandmortyapi.com/api/character/avatar/470.jpeg",
+        "location": {
+            "name": "Alien Day Spa",
+            "url": "https://rickandmortyapi.com/api/location/76"
+        },
+        "name": "Alien Spa Employee",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/470"
+    },
+    {
+        "created": "2018-05-22T17:07:21.833Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/27"
+        ],
+        "gender": "Genderless",
+        "id": 471,
+        "image": "https://rickandmortyapi.com/api/character/avatar/471.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Little Voltron",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Robot",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/471"
+    },
+    {
+        "created": "2018-05-22T17:11:53.084Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 472,
+        "image": "https://rickandmortyapi.com/api/character/avatar/472.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Baby Rick",
+        "origin": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Clone",
+        "url": "https://rickandmortyapi.com/api/character/472"
+    },
+    {
+        "created": "2018-05-22T17:14:41.628Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 473,
+        "image": "https://rickandmortyapi.com/api/character/avatar/473.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Bartender Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/473"
+    },
+    {
+        "created": "2018-05-22T17:17:10.102Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 474,
+        "image": "https://rickandmortyapi.com/api/character/avatar/474.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Dancer Cowboy Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/474"
+    },
+    {
+        "created": "2018-05-22T17:17:49.270Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 475,
+        "image": "https://rickandmortyapi.com/api/character/avatar/475.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Dancer Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/475"
+    },
+    {
+        "created": "2018-05-22T17:18:46.129Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 476,
+        "image": "https://rickandmortyapi.com/api/character/avatar/476.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Flower Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Human with a flower in his head",
+        "url": "https://rickandmortyapi.com/api/character/476"
+    },
+    {
+        "created": "2018-05-22T17:19:36.127Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 477,
+        "image": "https://rickandmortyapi.com/api/character/avatar/477.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Hairdresser Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/477"
+    },
+    {
+        "created": "2018-05-22T17:22:18.417Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 478,
+        "image": "https://rickandmortyapi.com/api/character/avatar/478.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Journalist Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/478"
+    },
+    {
+        "created": "2018-05-22T17:23:18.546Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 479,
+        "image": "https://rickandmortyapi.com/api/character/avatar/479.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Private Sector Rick",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/479"
+    },
+    {
+        "created": "2018-05-22T17:24:38.571Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/28"
+        ],
+        "gender": "Male",
+        "id": 480,
+        "image": "https://rickandmortyapi.com/api/character/avatar/480.jpeg",
+        "location": {
+            "name": "Citadel of Ricks",
+            "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "name": "Purple Morty",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/480"
+    }
+]

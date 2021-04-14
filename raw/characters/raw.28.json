@@ -1,0 +1,442 @@
+[
+    {
+        "created": "2020-05-02T13:57:49.250Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Female",
+        "id": 541,
+        "image": "https://rickandmortyapi.com/api/character/avatar/541.jpeg",
+        "location": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "name": "Secretary at Tony's",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/541"
+    },
+    {
+        "created": "2020-05-02T13:58:42.083Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 542,
+        "image": "https://rickandmortyapi.com/api/character/avatar/542.jpeg",
+        "location": {
+            "name": "Globaflyn",
+            "url": "https://rickandmortyapi.com/api/location/87"
+        },
+        "name": "Mountain Sweat Jerry",
+        "origin": {
+            "name": "Globaflyn",
+            "url": "https://rickandmortyapi.com/api/location/87"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/542"
+    },
+    {
+        "created": "2020-05-07T09:05:37.614Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/33"
+        ],
+        "gender": "Male",
+        "id": 543,
+        "image": "https://rickandmortyapi.com/api/character/avatar/543.jpeg",
+        "location": {
+            "name": "Gorgon Quadrant",
+            "url": "https://rickandmortyapi.com/api/location/84"
+        },
+        "name": "Vermigurber",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Fly",
+        "url": "https://rickandmortyapi.com/api/character/543"
+    },
+    {
+        "created": "2020-05-07T09:09:06.114Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 544,
+        "image": "https://rickandmortyapi.com/api/character/avatar/544.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Miles Knightly",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/544"
+    },
+    {
+        "created": "2020-05-07T09:12:12.200Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Female",
+        "id": 545,
+        "image": "https://rickandmortyapi.com/api/character/avatar/545.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Heist-Con Receptionist",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/545"
+    },
+    {
+        "created": "2020-05-07T09:14:00.009Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Female",
+        "id": 546,
+        "image": "https://rickandmortyapi.com/api/character/avatar/546.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Angie Flint",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Cyborg",
+        "url": "https://rickandmortyapi.com/api/character/546"
+    },
+    {
+        "created": "2020-05-07T09:14:34.918Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 547,
+        "image": "https://rickandmortyapi.com/api/character/avatar/547.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Glar",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/547"
+    },
+    {
+        "created": "2020-05-07T09:19:47.204Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 548,
+        "image": "https://rickandmortyapi.com/api/character/avatar/548.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Truckula",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "Vampire",
+        "url": "https://rickandmortyapi.com/api/character/548"
+    },
+    {
+        "created": "2020-05-07T09:51:03.022Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 549,
+        "image": "https://rickandmortyapi.com/api/character/avatar/549.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Snake Arms",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/549"
+    },
+    {
+        "created": "2020-05-07T10:07:53.077Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 550,
+        "image": "https://rickandmortyapi.com/api/character/avatar/550.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Double Microwawe",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Cyborg",
+        "url": "https://rickandmortyapi.com/api/character/550"
+    },
+    {
+        "created": "2020-05-07T10:08:49.225Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 551,
+        "image": "https://rickandmortyapi.com/api/character/avatar/551.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Monitor Lord",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/551"
+    },
+    {
+        "created": "2020-05-07T10:09:21.779Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Female",
+        "id": 552,
+        "image": "https://rickandmortyapi.com/api/character/avatar/552.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "Key Catcher",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/552"
+    },
+    {
+        "created": "2020-05-07T10:10:37.809Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Female",
+        "id": 553,
+        "image": "https://rickandmortyapi.com/api/character/avatar/553.jpeg",
+        "location": {
+            "name": "Heist-Con",
+            "url": "https://rickandmortyapi.com/api/location/88"
+        },
+        "name": "The Shapeshiftress",
+        "origin": {
+            "name": "unknown",
+            "url": ""
+        },
+        "species": "Alien",
+        "status": "Alive",
+        "type": "Shapeshifter",
+        "url": "https://rickandmortyapi.com/api/character/553"
+    },
+    {
+        "created": "2020-05-07T10:12:10.339Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Genderless",
+        "id": 554,
+        "image": "https://rickandmortyapi.com/api/character/avatar/554.jpeg",
+        "location": {
+            "name": "Heistotron Base",
+            "url": "https://rickandmortyapi.com/api/location/89"
+        },
+        "name": "Heistotron",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Robot",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/554"
+    },
+    {
+        "created": "2020-05-07T10:12:53.234Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Genderless",
+        "id": 555,
+        "image": "https://rickandmortyapi.com/api/character/avatar/555.jpeg",
+        "location": {
+            "name": "Heistotron Base",
+            "url": "https://rickandmortyapi.com/api/location/89"
+        },
+        "name": "Randotron",
+        "origin": {
+            "name": "Earth (Replacement Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/20"
+        },
+        "species": "Robot",
+        "status": "Dead",
+        "type": "",
+        "url": "https://rickandmortyapi.com/api/character/555"
+    },
+    {
+        "created": "2020-05-07T10:19:57.456Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 556,
+        "image": "https://rickandmortyapi.com/api/character/avatar/556.jpeg",
+        "location": {
+            "name": "Heistotron Base",
+            "url": "https://rickandmortyapi.com/api/location/89"
+        },
+        "name": "Hephaestus",
+        "origin": {
+            "name": "Mount Olympus",
+            "url": "https://rickandmortyapi.com/api/location/90"
+        },
+        "species": "Mythological Creature",
+        "status": "Alive",
+        "type": "God",
+        "url": "https://rickandmortyapi.com/api/character/556"
+    },
+    {
+        "created": "2020-05-07T10:23:26.274Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Female",
+        "id": 557,
+        "image": "https://rickandmortyapi.com/api/character/avatar/557.jpeg",
+        "location": {
+            "name": "Heistotron Base",
+            "url": "https://rickandmortyapi.com/api/location/89"
+        },
+        "name": "Ventriloquiver",
+        "origin": {
+            "name": "Plitzville Montana",
+            "url": "https://rickandmortyapi.com/api/location/91"
+        },
+        "species": "Humanoid",
+        "status": "Alive",
+        "type": "Dummy",
+        "url": "https://rickandmortyapi.com/api/character/557"
+    },
+    {
+        "created": "2020-05-07T10:26:02.535Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 558,
+        "image": "https://rickandmortyapi.com/api/character/avatar/558.jpeg",
+        "location": {
+            "name": "Heistotron Base",
+            "url": "https://rickandmortyapi.com/api/location/89"
+        },
+        "name": "Elon Tusk",
+        "origin": {
+            "name": "Earth (Tusk Dimension)",
+            "url": "https://rickandmortyapi.com/api/location/92"
+        },
+        "species": "Human",
+        "status": "Alive",
+        "type": "Human with tusks",
+        "url": "https://rickandmortyapi.com/api/character/558"
+    },
+    {
+        "created": "2020-05-07T10:27:19.527Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 559,
+        "image": "https://rickandmortyapi.com/api/character/avatar/559.jpeg",
+        "location": {
+            "name": "Gramuflack",
+            "url": "https://rickandmortyapi.com/api/location/93"
+        },
+        "name": "Gramuflackian Anchorman",
+        "origin": {
+            "name": "Gramuflack",
+            "url": "https://rickandmortyapi.com/api/location/93"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gramuflackian",
+        "url": "https://rickandmortyapi.com/api/character/559"
+    },
+    {
+        "created": "2020-05-07T10:28:11.833Z",
+        "episode": [
+            "https://rickandmortyapi.com/api/episode/34"
+        ],
+        "gender": "Male",
+        "id": 560,
+        "image": "https://rickandmortyapi.com/api/character/avatar/560.jpeg",
+        "location": {
+            "name": "Gramuflack",
+            "url": "https://rickandmortyapi.com/api/location/93"
+        },
+        "name": "Gramuflackian General",
+        "origin": {
+            "name": "Gramuflack",
+            "url": "https://rickandmortyapi.com/api/location/93"
+        },
+        "species": "Alien",
+        "status": "Dead",
+        "type": "Gramuflackian",
+        "url": "https://rickandmortyapi.com/api/character/560"
+    }
+]
